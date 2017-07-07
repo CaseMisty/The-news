@@ -54,7 +54,7 @@
     <div class="main-view">
       <router-view></router-view>
     </div>
-    <siteFooter></siteFooter>
+    <siteFooter v-if="footerActive"></siteFooter>
   </div>
 </template>
 
@@ -66,6 +66,15 @@
       headerCom,
       siteFooter
     },
-    name: 'app'
+    name: 'app',
+    data () {
+      return {
+        footerActive: true
+      }
+    },
+    created () {
+      this.$root.eventHub.$on('tooglefooter', (state) => { this.footerActive = state })
+      this.$root.eventHub.$on('tooglefooter', (state) => { this.footerActive = state })
+    }
   }
 </script>

@@ -25,6 +25,9 @@ label {
   overflow-y: auto;
   overflow-x: hidden;
 }
+.publish-action {
+  width: 251px;
+}
 .publish-action a{
   float: left;
   width: 125.5px;
@@ -47,9 +50,6 @@ label {
   &:hover {
     background-color: #449d44;
   }
-}
-.sidebar-content {
-  height: 1200px;
 }
 .preview {
   min-width: 600px;
@@ -128,6 +128,9 @@ textarea.input {
   border: 2px solid #f0f0f0;
   display: block;
 }
+.middle {
+  height: 440px;
+}
 </style>
 
 <template>
@@ -175,7 +178,7 @@ textarea.input {
         <div class="preview-info">2014-11-23 20:58</div>
       </div>
       <div class="preview-body">
-        <textarea class="middle" name="" id=""  rows="30"></textarea>
+        <textarea class="middle" name=""></textarea>
       </div>
     </div>
   </section>
@@ -188,6 +191,12 @@ export default {
       inputTitle: '',
       inputDesc: ''
     }
+  },
+  created () {
+    this.$root.eventHub.$emit('tooglefooter', false)
+  },
+  beforeDestroy () {
+    this.$root.eventHub.$emit('tooglefooter', true)
   },
   computed: {
     title () {

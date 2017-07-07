@@ -17,6 +17,9 @@ Vue.directive('title', {
 new Vue({
   el: '#app',
   router,
+  data: {
+    eventHub: new Vue()
+  },
   template: '<App/>',
   components: { App }
 })

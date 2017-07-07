@@ -47,10 +47,13 @@
   height: 100%;
   text-align: center;
 }
+.left-nav .active {
+  background-color: #e0e0e0;
+}
 </style>
 
 <template>
-  <div class="person-info">
+  <div class="person-info" v-title="'个人设置'">
     <div class="person-left">
       <div class="person-left">
         <div class="user-head">
@@ -59,17 +62,17 @@
           <small>Qcccc</small>
         </div>
         <ul class="left-nav">
-          <li>
-            <a href="#/personInfo/userInfo">
+          <li :class="{active: index==0}">
+            <a href="#/personInfo/userInfo" @click="index=0">
               用户信息
             </a>
           </li>
-          <li>
-            <a href="#/personInfo/userNews">
+          <li :class="{active: index==0}">
+            <a href="#/personInfo/userNews" @click="index=1">
               我的文章
             </a>
           </li>
-          <li>
+          <li :class="{active: index==0}" @click="index=2">
             <a href="#/contribution">
               我要投稿
             </a>
@@ -86,8 +89,10 @@
 <script>
 
 export default {
-  components: {
-
+  data () {
+    return {
+      index: 0
+    }
   }
 }
 </script>
