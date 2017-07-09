@@ -67,12 +67,12 @@
               用户信息
             </a>
           </li>
-          <li :class="{active: index==0}">
+          <li :class="{active: index==1}">
             <a href="#/personInfo/userNews" @click="index=1">
               我的文章
             </a>
           </li>
-          <li :class="{active: index==0}" @click="index=2">
+          <li :class="{active: index==2}" @click="index=2">
             <a href="#/contribution">
               我要投稿
             </a>
