@@ -43,13 +43,13 @@
     <div class="div-rows">
       <div class="div-label">城市</div>
       <div class="form-right">
-        <input type="text">
+        <input v-model="person_city" type="text">
       </div>
-    </div>
+  </div>
     <div class="div-rows">
       <div class="div-label">QQ</div>
       <div class="form-right">
-        <input type="text">
+        <input v-model="person_qq" type="text">
       </div>
     </div>
     <div class="div-rows">
@@ -62,7 +62,31 @@
 </template>
 
 <script>
+  import axios from 'axios'
   export default {
-    name: 'user-info'
+    name: 'user-info',
+    beforeCreate () {
+      let self = this
+      axios({
+        method: 'post',
+        url: 'http://localhost:6666/Psy/selectMassage.htm',
+        params: {
+          account: this.$route.query.account
+        }
+      }).then(function (res) {
+        self.person_city = res.data.city
+        self.person_qq = res.data.qq
+        console.log(self.person_qq)
+      }, function (err) {
+        console.log(err)
+        // alert('网络不好,或重新登录')
+      })
+    },
+    data () {
+      return {
+        person_city: '',
+        person_qq: ''
+      }
+    }
   }
 </script>

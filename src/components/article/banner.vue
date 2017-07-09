@@ -62,20 +62,20 @@
 <template>
   <div class="article-banner">
     <div class="banner-background-inner">
-      <img class="banner-background" :src="data.titleImg" alt="">
+      <img class="banner-background" :src="data.titleImage" alt="">
       <div class="banner-filter"></div>
       <div class="title-inner">
         <h2 class="banner-title">
           {{data.title}}
         </h2>
         <small>
-          {{data.describe}}
+          {{data.brief}}
         </small>
         <p>
-          {{data.time}}
+          {{data.lastTime}}
         </p>
       </div>
-      <img class="head-image" :src="data.headImg" alt="">
+      <img class="head-image" :src="data.authorImg" alt="">
     </div>
   </div>
 </template>
@@ -88,10 +88,10 @@
         default () {
           return {
             title: '很久之前，我的梦想是成为一名上天入地的出租车司机',
-            describe: '其实现在可以去开滴滴快车',
-            time: '2017-06-30 08:01:00',
-            titleImg: 'static/newsBanner.jpg',
-            headImg: 'static/headImage.jpg'
+            brief: '其实现在可以去开滴滴快车',
+            lastTime: '2017-06-30 08:01:00',
+            titleImage: 'static/newsBanner.jpg',
+            authorImg: 'static/headImage.jpg'
           }
         }
       }

@@ -153,13 +153,14 @@ button{
 </template>
 
 <script>
+import axios from 'axios'
 
 export default {
   name: 'login',
   data () {
     return {
-      userName: 'qc',
-      passWord: '123456',
+      userName: '141203405',
+      passWord: 'qcc',
       rememberMe: true,
       userNameFocusState: false,
       passwordFocusState: false
@@ -184,26 +185,23 @@ export default {
         setTimeout(() => { this.passwordFocusState = false }, 500)
         return
       }
-      if (this.userName === 'qc' && this.passWord === '123456') {
-        window.location.href = '/#/personInfo'
-      }
-      /* // 这里ajax登录
-      let self = this;
-      axios.post(`${baseConfig.localPath}login`,{
-        username: this.userName,
-        password: this.passWord
-      }).then(function (res){
-        if (res.data.token) {
+      // 这里ajax登录
+      let self = this
+      axios({
+        url: 'http://localhost:6666/Psy/login.htm',
+        method: 'post',
+        params: {
+          userAccount: self.userName,
+          userPassword: self.passWord
+        }
+      }).then(function (res) {
+        if (res.data === '1') {
           // 这里要有登录等待
-          self.$emit("setToken",res.data);
-          window.location.href += "home";
+          window.location.href = '/#/personInfo?account=' + self.userName
+        } else {
+          self.$message.error('用户名或密码错误')
         }
-        else{
-          alert("用户名或密码错误");
-        }
-      }).catch(function (res){
-        alert('网络错误');
-      }); */
+      })
     }
   },
   directives: {

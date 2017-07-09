@@ -57,9 +57,9 @@
     <div class="person-left">
       <div class="person-left">
         <div class="user-head">
-          <img src="static/user-head.png" alt="头像">
+          <img :src="person.authorImg" alt="头像">
           <br>
-          <small>Qcccc</small>
+          <small>{{person.nickName}}</small>
         </div>
         <ul class="left-nav">
           <li :class="{active: index==0}">
@@ -87,12 +87,28 @@
 </template>
 
 <script>
-
-export default {
-  data () {
-    return {
-      index: 0
+  import axios from 'axios'
+  export default {
+    beforeCreate () {
+      let self = this
+      axios({
+        method: 'post',
+        url: 'http://localhost:6666/Psy/selectMassage.htm',
+        params: {
+          account: this.$route.query.account
+        }
+      }).then(function (res) {
+        self.person = res.data
+      }, function (err) {
+        console.log(err)
+        // alert('网络不好,或重新登录')
+      })
+    },
+    data () {
+      return {
+        person: null,
+        index: 0
+      }
     }
   }
-}
 </script>
