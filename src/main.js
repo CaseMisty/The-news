@@ -8,11 +8,18 @@ import 'element-ui/lib/theme-default/index.css'
 
 Vue.config.productionTip = false
 Vue.use(elementUi)
-
+Vue.directive('title', {
+  bind (el, binding) {
+    document.title = binding.value
+  }
+})
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
   router,
+  data: {
+    eventHub: new Vue()
+  },
   template: '<App/>',
   components: { App }
 })

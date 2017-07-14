@@ -47,30 +47,33 @@
   height: 100%;
   text-align: center;
 }
+.left-nav .active {
+  background-color: #e0e0e0;
+}
 </style>
 
 <template>
-  <div class="person-info">
+  <div class="person-info" v-title="'个人设置'">
     <div class="person-left">
       <div class="person-left">
         <div class="user-head">
-          <img src="static/user-head.png" alt="头像">
+          <img :src="person.authorImg" alt="头像">
           <br>
-          <small>Qcccc</small>
+          <small>{{person.nickName}}</small>
         </div>
         <ul class="left-nav">
-          <li>
-            <a href="#/personInfo/userInfo">
+          <li :class="{active: index==0}">
+            <a href="#/personInfo/userInfo" @click="index=0">
               用户信息
             </a>
           </li>
-          <li>
-            <a href="#/personInfo/userNews">
+          <li :class="{active: index==1}">
+            <a href="#/personInfo/userNews" @click="index=1">
               我的文章
             </a>
           </li>
-          <li>
-            <a href="">
+          <li :class="{active: index==2}" @click="index=2">
+            <a href="#/contribution">
               我要投稿
             </a>
           </li>
@@ -84,10 +87,28 @@
 </template>
 
 <script>
-
-export default {
-  components: {
-
+  import axios from 'axios'
+  export default {
+    beforeCreate () {
+      let self = this
+      axios({
+        method: 'post',
+        url: 'http://localhost:6666/Psy/selectMassage.htm',
+        params: {
+          account: this.$route.query.account
+        }
+      }).then(function (res) {
+        self.person = res.data
+      }, function (err) {
+        console.log(err)
+        // alert('网络不好,或重新登录')
+      })
+    },
+    data () {
+      return {
+        person: null,
+        index: 0
+      }
+    }
   }
-}
 </script>

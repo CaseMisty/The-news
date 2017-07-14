@@ -99,16 +99,18 @@
 <template>
   <div class="showcase" :style="style">
     <div class="info">
-      <span class="time">{{data.time}}</span>
+      <span class="time">{{data.lastTime}}</span>
       <span class="category">
-        <a :href="data.category.href">
-          {{data.category.name}}
+        <!--:href="data.category.href"-->
+        <a>
+          <!--{{data.category.name}}-->
         </a>
       </span>
     </div>
     <div class="img">
-      <a href="http://localhost:8080/#/newsInfo" target='_blank' class="block">
-        <img :src="data.newsImg" class="news-img" alt="">
+      <!-- http://localhost:8080/#/newsInfo -->
+      <a :href="data.href" target='_blank' class="block">
+        <img :src="data.newsImage" class="news-img" alt="">
         <div class="meta">
           <div class="author-info">
             <img :src="data.authorImg" :alt="data.title" class="author-img middle">
@@ -122,9 +124,9 @@
     </div>
     <div class="text">
       <h4>
-        <a target="_blank" :href="data.href">{{data.title}}</a>
+        <a target="_blank">{{data.title}}</a>
       </h4>
-      <div class="desc">{{data.desc}}</div>
+      <div class="desc">{{data.brief}}</div>
     </div>
   </div>
 </template>
@@ -146,16 +148,16 @@ export default {
       type: Object,
       default () {
         return {
-          time: '2017-06-29',
-          category: {
+          lastTime: '2017-06-29',
+          /* category: {
             name: '也爱看电影',
             href: 'http://localhost:8080/#/newsInfo'
-          },
+          }, */
           title: '演员，凯文·史派西',
-          desc: '“最巧妙之处就是能让人相信他不存在”',
-          newsImg: 'static/40b96fb7-7c51-4007-806c-f8627088eab1_hl.jpg',
+          brief: '“最巧妙之处就是能让人相信他不存在”',
+          newsImage: 'static/40b96fb7-7c51-4007-806c-f8627088eab1_hl.jpg',
           authorImg: 'static/aa080c8b-0b93-4370-96af-1e06afef697d_normal.png',
-          href: 'http://localhost:8080/#/newsInfo',
+          href: '',
           like: '15',
           comments: '12'
         }

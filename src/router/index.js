@@ -6,6 +6,7 @@ import personInfo from '@/pages/personInfo'
 import userInfo from '@/components/user/info'
 import userNews from '@/components/user/news'
 import login from '@/pages/login'
+import contribution from '../pages/contribution.vue'
 
 Vue.use(Router)
 
@@ -27,13 +28,17 @@ export default new Router({
       component: login
     },
     {
+      path: '/contribution',
+      component: contribution
+    },
+    {
       path: '/personInfo',
       name: 'personInfo',
       component: personInfo,
       children: [
         {
           path: '/personInfo/',
-          component: userInfo
+          redirect: '/personInfo/userInfo'
         },
         {
           path: '/personInfo/userInfo',
