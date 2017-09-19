@@ -1,10 +1,13 @@
 # the-news
 
-> A Vue.js project
+> SpringMVC + Vue.js 仿机核网 (http://www.g-cores.com/)
 
 ## Build Setup
 
 ``` bash
+# 更新
+npm install npm@latest -g
+
 # install dependencies
 npm install
 

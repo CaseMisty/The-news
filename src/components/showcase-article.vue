@@ -14,6 +14,8 @@
     float: right;
     a {
       @extend .info;
+      font-weight: bold;
+      font-size: 13px;
     }
   }
   .img {
@@ -103,7 +105,7 @@
       <span class="category">
         <!--:href="data.category.href"-->
         <a>
-          <!--{{data.category.name}}-->
+          {{data.category.name}}
         </a>
       </span>
     </div>

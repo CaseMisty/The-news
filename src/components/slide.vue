@@ -147,7 +147,7 @@
     </ul>
     <div class="switch-bar">
       <div class="middle clearfix" :style="`width: ${slideIndex * 32 - 20}px`">
-        <span class="switch-btn" v-for="(item, index) of slideNews" :class="{cur: index === nowIndex}" @click="goto(index)"></span>
+        <span class="switch-btn" v-for="(item, index) of slideNews" :key="index" :class="{cur: index === nowIndex}" @click="goto(index)"></span>
       </div>
     </div>
     <span name="prev-btn" :style="`background-image: url('static/icon-slides.png');`" @click="goto(prevIndex)"></span>
@@ -164,20 +164,22 @@ export default {
     },
     slideNews: {
       type: Array,
-      default: [
-        {
-          src: 'static/c14df5ce-d459-42ae-875e-ce97271dcba5.jpg',
-          href: ''
-        },
-        {
-          src: 'static/53785fca-015a-4c25-9c78-9b8e18d058d0.jpg',
-          href: ''
-        },
-        {
-          src: 'static/cb2ce18e-7643-4eda-9b9b-6845cc9b2882.jpg',
-          href: ''
-        }
-      ]
+      default () {
+        return [
+          {
+            src: 'static/c14df5ce-d459-42ae-875e-ce97271dcba5.jpg',
+            href: ''
+          },
+          {
+            src: 'static/53785fca-015a-4c25-9c78-9b8e18d058d0.jpg',
+            href: ''
+          },
+          {
+            src: 'static/cb2ce18e-7643-4eda-9b9b-6845cc9b2882.jpg',
+            href: ''
+          }
+        ]
+      }
     }
   },
   data () {
@@ -195,13 +197,13 @@ export default {
   computed: {
     prevIndex () {
       if (this.nowIndex === 0) {
-        return this.slideNews.length - 1
+        return this.slideIndex - 1
       } else {
         return this.nowIndex - 1
       }
     },
     nextIndex () {
-      if (this.nowIndex === this.slideNews.length - 1) {
+      if (this.nowIndex === this.slideIndex - 1) {
         return 0
       } else {
         return this.nowIndex + 1

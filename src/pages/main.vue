@@ -9,7 +9,7 @@
       <showcase-article :data="firstArticle" :size="'middle'"></showcase-article>
       <showcase-article :data="secondArticle" :size="'middle'"></showcase-article>
       <template v-for="article in RestArticle">
-        <showcase-article :data="article"></showcase-article>
+        <showcase-article :data="article" :key="article.id"></showcase-article>
       </template>
     </div>
   </div>
@@ -38,15 +38,15 @@ export default {
       method: 'post',
       url: 'http://localhost:6666/Psy/selectAllPress.htm'
     }).then(function (res) {
-      res.data[0].href = ''
+      // res.data[0].href = ''
       res.data.forEach(value => {
         value.href = `http://localhost:8080/#/newsInfo?press_id=${value.id}`
       })
-      self.firstArticle = res.data[0]
-      self.secondArticle = res.data[1]
-      res.data.shift()
-      res.data.shift()
+      self.firstArticle = res.data.shift()
+      self.secondArticle = res.data.shift()
       self.RestArticle = res.data
+      console.dir(self.firstArticle)
+      console.dir(self.secondArticle)
     }, function (err) {
       console.log(err)
       // alert('网络不好,或重新登录')
