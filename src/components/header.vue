@@ -27,14 +27,25 @@
   }
   .login-div div {
     height: 100%;
-    padding: 28.5px 15px;
+    width: 58px;
+    height: 80px;
+    
   }
   .nav {
     height: 100%;
     padding: 28.5px 15px;
   }
-  a {
+  .left a {
     color: rgb(153, 153, 153);
+    display: block;
+    width: 100%;
+    height: 100%;
+    line-height: 80px;
+    text-align: center;
+  }
+  .left a:hover {
+    text-decoration: none;
+    color: #333;
   }
 </style>
 
@@ -47,21 +58,24 @@
       </a>
       <div class="login-div right">
         <div class="left">
-          <a href="#/login">登录</a>
+          <a href="">新闻</a>
         </div>
         <div class="left">
-          <a href="">注册</a>
+          <a href="">文章</a>
+        </div>
+        <div class="left">
+          <a href="">电台</a>
+        </div>
+        <div class="left">
+          <a href="">视频</a>
+        </div>
+        <div class="left">
+          <a href="#/login">登录</a>
         </div>
       </div>
-      <ul class="nav right">
-        <li>
-          <a href="">新闻</a>
-        </li>
-      </ul>
     </div>
   </header>
 </template>
-
 <script>
   export default {
     name: 'header'
