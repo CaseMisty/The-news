@@ -13,7 +13,17 @@
       </template>
     </div>
     <banner cnName="新闻" enName="NEWS" id="news" imgSrc="http://alioss.g-cores.com/assets/banner/gadio-f7ed3e007552777820b9f5ffd892937cae37273efaf60593ea09e6abd851743e.jpg"></banner>
+    <div class="container">
+      <template v-for="item of news">
+        <showcase-article :data="item" :key="item.id"></showcase-article>
+      </template>
+    </div>
     <banner cnName="文章" enName="ARTICLE" id="article" imgSrc="http://alioss.g-cores.com/assets/banner/article-e0042f16e46a464ef52cadd25f3cb7a5e5d6472467f5be6a3a357b9e355637ca.jpg"></banner>
+    <div class="container">
+      <template v-for="item of articles">
+        <showcase-article :data="item" :key="item.id"></showcase-article>
+      </template>
+    </div>
   </div>
 </template>
 
@@ -32,7 +42,9 @@ export default {
     return {
       firstArticle: null,
       secondArticle: null,
-      RestArticle: []
+      RestArticle: [],
+      news: [],
+      articles: []
     }
   },
   beforeCreate () {
@@ -52,8 +64,19 @@ export default {
       console.dir(self.secondArticle)
     }, function (err) {
       console.log(err)
-      // alert('网络不好,或重新登录')
     })
+    // this.$http.post('http://localhost:6666/Psy/selectAllNews.htm')
+    // .then((res) => {
+    //   this.news = res
+    // }, (err) => {
+    //   this.$message.error(err)
+    // })
+    // this.$http.post('http://localhost:6666/Psy/selectAllArticle.htm')
+    // .then((res) => {
+    //   this.articles = res
+    // }, (err) => {
+    //   this.$messsage.error(err)
+    // })
   }
 }
 </script>

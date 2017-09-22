@@ -5,7 +5,7 @@ import App from './App'
 import router from './router'
 import elementUi from 'element-ui'
 import 'element-ui/lib/theme-default/index.css'
-
+import axios from 'axios'
 Vue.config.productionTip = false
 Vue.use(elementUi)
 Vue.directive('title', {
@@ -13,6 +13,7 @@ Vue.directive('title', {
     document.title = binding.value
   }
 })
+Vue.prototype.$http = axios
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
