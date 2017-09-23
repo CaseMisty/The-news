@@ -150,18 +150,18 @@ export default {
       type: Object,
       default () {
         return {
-          lastTime: '2017-06-29',
+          lastTime: '',
           /* category: {
             name: '也爱看电影',
             href: 'http://localhost:8080/#/newsInfo'
           }, */
-          title: '演员，凯文·史派西',
-          brief: '“最巧妙之处就是能让人相信他不存在”',
-          newsImage: 'static/40b96fb7-7c51-4007-806c-f8627088eab1_hl.jpg',
-          authorImg: 'static/aa080c8b-0b93-4370-96af-1e06afef697d_normal.png',
+          title: '',
+          brief: '',
+          newsImage: '',
+          authorImg: '',
           href: '',
-          like: '15',
-          comments: '12'
+          like: '',
+          comments: ''
         }
       }
     }

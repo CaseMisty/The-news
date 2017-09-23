@@ -12,12 +12,13 @@
     </div>
     <banner cnName="新闻" enName="NEWS" id="news" imgSrc="http://alioss.g-cores.com/assets/banner/gadio-f7ed3e007552777820b9f5ffd892937cae37273efaf60593ea09e6abd851743e.jpg"></banner>
     <showcase-group :items="news"></showcase-group>
-    <banner cnName="文章" enName="ARTICLE" id="article" imgSrc="http://alioss.g-cores.com/assets/banner/article-e0042f16e46a464ef52cadd25f3cb7a5e5d6472467f5be6a3a357b9e355637ca.jpg"></banner>
+    <banner cnName="文章" enName="ARTICLE" id="articles" imgSrc="http://alioss.g-cores.com/assets/banner/article-e0042f16e46a464ef52cadd25f3cb7a5e5d6472467f5be6a3a357b9e355637ca.jpg"></banner>
     <showcase-group :items="articles"></showcase-group>
   </div>
 </template>
 
 <script>
+/*eslint-disable */
 import showcaseArticle from '../components/showcase-article'
 import slide from '../components/slide'
 import axios from 'axios'
@@ -31,12 +32,18 @@ export default {
     showcaseGroup
   },
   data () {
+    class EmptyPress {
+      constructor() {
+        this.lastTime = '';  this.category = { name: '',id: '' }; this.title= ''; this.brief = ''; this.newsImage = ''; this.authorImg = ''; 
+        this.href = ''; this.like = ''; this.comments = '';
+      }
+    }
     return {
-      firstArticle: null,
-      secondArticle: null,
-      RestArticle: [],
-      news: [],
-      articles: []
+      firstArticle: new EmptyPress(),
+      secondArticle:  new EmptyPress(),
+      RestArticle:  [new EmptyPress()],
+      news:  [new EmptyPress()],
+      articles:  [new EmptyPress()]
     }
   },
   beforeCreate () {

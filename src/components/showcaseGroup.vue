@@ -11,6 +11,13 @@ export default {
   components: {
     showcaseArticle
   },
-  props: ['items']
+  props: {
+    items: {
+      type: Array,
+      default () {
+        return []
+      }
+    }
+  }
 }
 </script>

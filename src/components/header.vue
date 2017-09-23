@@ -29,7 +29,6 @@
     height: 100%;
     width: 58px;
     height: 80px;
-    
   }
   .nav {
     height: 100%;
@@ -58,7 +57,7 @@
       </a>
       <div class="login-div right">
         <div class="left">
-          <a href="">新闻</a>
+          <a href="" v-moveTo="'news'">新闻</a>
         </div>
         <div class="left">
           <a href="">文章</a>
@@ -78,6 +77,59 @@
 </template>
 <script>
   export default {
-    name: 'header'
+    name: 'header',
+    directives: {
+      moveTo: {
+        inserted (el, binding) {
+          var moveTo = function (sel) {
+            const tar = document.getElementById(sel)
+            if (tar) {
+              let doc = document
+              const docTop = function (...arg) {
+                if (arg.length === 0) {
+                  return doc.body.scrollTop + doc.documentElement.scrollTop
+                } else if (arg.length === 1) {
+                  doc.body.scrollTop = arg[0]
+                  doc.documentElement.scrollTop = arg[0]
+                }
+              }
+              return function (e) {
+                e.preventDefault()
+                const tarTop = tar.offsetTop
+                const clickTop = docTop()
+                let status
+                if (clickTop < tarTop) status = 'down'
+                else status = 'up'
+                const SPEED = Math.abs(tarTop - clickTop) / 60
+                const scrollStep = function () {
+                  let scrollTop = docTop()
+                  if (status === 'down') {
+                    scrollTop += SPEED
+                    if (scrollTop > tarTop) {
+                      scrollTop = tarTop
+                      status = 'stop'
+                    }
+                  } else if (status === 'up') {
+                    scrollTop -= SPEED
+                    if (scrollTop < tarTop) {
+                      scrollTop = tarTop
+                      status = 'stop'
+                    }
+                  } else if (status === 'stop') {
+                    return
+                  }
+                  docTop(scrollTop)
+                  requestAnimationFrame(scrollStep)
+                }
+              }
+            } else {
+              return undefined
+            }
+          }
+          // alert(binding.value)
+          el.addEventListener('click', moveTo(binding.value))
+        }
+      }
+    }
   }
 </script>
