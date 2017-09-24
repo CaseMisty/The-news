@@ -50,25 +50,21 @@ export default {
     let self = this
     axios({
       method: 'post',
-      url: 'http://localhost:6666/Psy/selectAllPress.htm'
+      url: '/api/selectAllPress.htm'
     }).then(function (res) {
-      // res.data[0].href = ''
-      res.data.forEach(value => {
-        value.href = `http://localhost:8080/#/newsInfo?press_id=${value.id}`
-      })
       self.firstArticle = res.data.shift()
       self.secondArticle = res.data.shift()
       self.RestArticle = res.data
     }, function (err) {
       console.log(err)
     })
-    this.$http.post('http://localhost:6666/Psy/selectAllNews.htm')
+    this.$http.post('/api/selectAllNews.htm')
     .then((res) => {
       this.news = res.data
     }, (err) => {
       this.$message.error(err)
     })
-    this.$http.post('http://localhost:6666/Psy/selectAllArticle.htm')
+    this.$http.post('/api/selectAllArticle.htm')
     .then((res) => {
       this.articles = res.data
       console.log('selectAllArticles')

@@ -93,7 +93,7 @@
       let self = this
       axios({
         method: 'post',
-        url: 'http://localhost:6666/Psy/selectMassage.htm',
+        url: 'http://localhost:9090/Psy/selectMassage.htm',
         params: {
           account: this.$route.query.account
         }

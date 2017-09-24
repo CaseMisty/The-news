@@ -57,10 +57,10 @@
       </a>
       <div class="login-div right">
         <div class="left">
-          <a href="" v-moveTo="'news'">新闻</a>
+          <a href="" v-moveTo="'#news'">新闻</a>
         </div>
         <div class="left">
-          <a href="">文章</a>
+          <a href="" v-moveTo="'#articles'">文章</a>
         </div>
         <div class="left">
           <a href="">电台</a>
@@ -76,13 +76,14 @@
   </header>
 </template>
 <script>
+ /* eslint-disable semi */
   export default {
     name: 'header',
     directives: {
       moveTo: {
         inserted (el, binding) {
           var moveTo = function (sel) {
-            const tar = document.getElementById(sel)
+            const tar = document.querySelector(sel)
             if (tar) {
               let doc = document
               const docTop = function (...arg) {
@@ -91,6 +92,7 @@
                 } else if (arg.length === 1) {
                   doc.body.scrollTop = arg[0]
                   doc.documentElement.scrollTop = arg[0]
+                  return docTop()
                 }
               }
               return function (e) {
@@ -100,9 +102,12 @@
                 let status
                 if (clickTop < tarTop) status = 'down'
                 else status = 'up'
-                const SPEED = Math.abs(tarTop - clickTop) / 60
+                const DURATION = 0.4
+                const SPEED = Math.abs(tarTop - clickTop) / (DURATION / 1 * 60)
+                let lastTop
                 const scrollStep = function () {
                   let scrollTop = docTop()
+                  lastTop = scrollTop
                   if (status === 'down') {
                     scrollTop += SPEED
                     if (scrollTop > tarTop) {
@@ -115,18 +120,22 @@
                       scrollTop = tarTop
                       status = 'stop'
                     }
-                  } else if (status === 'stop') {
+                  }
+                  const thisTop = docTop(scrollTop)
+                  if (thisTop === lastTop) {
+                    status = 'stop'
+                  }
+                  if (status === 'stop') {
                     return
                   }
-                  docTop(scrollTop)
                   requestAnimationFrame(scrollStep)
                 }
+                scrollStep()
               }
             } else {
               return undefined
             }
           }
-          // alert(binding.value)
           el.addEventListener('click', moveTo(binding.value))
         }
       }
