@@ -111,7 +111,7 @@
     </div>
     <div class="img">
       <!-- http://localhost:8080/#/newsInfo -->
-      <a :href="data.href" target='_blank' class="block">
+      <a :href="data.href"  class="block">
         <img :src="data.newsImage" class="news-img" alt="">
         <div class="meta">
           <div class="author-info">
@@ -126,7 +126,7 @@
     </div>
     <div class="text">
       <h4>
-        <a target="_blank">{{data.title}}</a>
+        <a >{{data.title}}</a>
       </h4>
       <div class="desc">{{data.brief}}</div>
     </div>

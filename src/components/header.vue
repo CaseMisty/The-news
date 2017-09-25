@@ -60,7 +60,7 @@
           <a href="" v-moveTo="'#news'">新闻</a>
         </div>
         <div class="left">
-          <a href="" v-moveTo="'#articles'">文章</a>
+          <a v-moveTo="'#articles'">文章</a>
         </div>
         <div class="left">
           <a href="">电台</a>
@@ -96,7 +96,9 @@
                 }
               }
               return function (e) {
-                e.preventDefault()
+                if (window.location.href === 'http://localhost:8080/#/') {
+                  e.preventDefault()
+                }
                 const tarTop = tar.offsetTop
                 const clickTop = docTop()
                 let status
