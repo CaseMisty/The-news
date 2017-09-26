@@ -126,7 +126,7 @@
     </div>
     <div class="text">
       <h4>
-        <a >{{data.title}}</a>
+        <a :title="data.title">{{data.title}}</a>
       </h4>
       <div class="desc">{{data.brief}}</div>
     </div>
