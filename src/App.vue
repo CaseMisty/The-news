@@ -69,7 +69,7 @@
       <router-view></router-view>
     </div>
     <transition name="fade">
-      <img id="to-top" v-moveTo="'body'" src="http://alioss.g-cores.com/assets/totop-4489de3bdf698735aae759e5da990bc8ecb48fd5852e674fc5ba4fcdddfd3471.png" v-if="toTopBtnStyle">
+      <img id="to-top" src="http://alioss.g-cores.com/assets/totop-4489de3bdf698735aae759e5da990bc8ecb48fd5852e674fc5ba4fcdddfd3471.png" v-show="toTopBtnStyle" v-moveTo="'body'">
     </transition>
     <siteFooter v-if="footerActive"></siteFooter>
   </div>
