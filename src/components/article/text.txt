@@ -1,0 +1,469 @@
+<div id="j_story_12119" class="story">
+        <div class="story_elem story_elem-text ">
+          <p><em>导语：请所有读者注意，这篇文章将是机核史上最厚颜无耻、天花乱坠、胡说八道、信口开河、指鹿为马、无所顾忌、大吹大擂、大放厥词、大言不惭、大惊小怪的文章。如果给你造成不适，如果你因此讨厌我们，对不起，非常对不起。</em></p>
+
+<p><em>任天堂没有给过我们一分钱，而且如果他们看到这篇文章，恐怕以后更不会给我们钱，并且我们还会继续送钱——如果他们能继续做出《荒野之息》这样的游戏。</em></p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <h3 id="j_header_0">17台NS，1个游戏，以及语言的无能</h3>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>机核订购NS的过程一波三折，最终到手的机器一共有17台。而在购买主机的同时，我们还分别从不同渠道不约而同地订购了《塞尔达：荒野之息》。</p>
+
+<p><strong>这是因为我们并不信它有那么棒。</strong></p>
+
+<p><a href="http://www.g-cores.com/articles/23438" target="_blank">当全球媒体一面倒地赞美一款游戏的时候，我们最先选择的态度并非期待，而是怀疑。</a>当“开放世界”成为一个家常便饭式的游戏概念，所有人都对以其为主打的游戏不再抱有特别充分的信任——尤其是第一次在《塞尔达》这样的传奇IP上首次尝试这种模式的、以固执著称的老任。</p>
+
+<p>&nbsp;</p>
+
+<blockquote>
+<p>“我已经忍了八百万个开放世界，这一个我不想忍了。”</p>
+
+<p style="text-align:right"><em>——办公室某育碧BOY评价某新发育碧游戏</em></p>
+</blockquote>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>不过，这都是过去时了。当3月6日的DHL退运噩耗传来，办公室精神脆弱的人们吃进现货的同时，东京小分队人肉背回来的NS也到达了办公室。十余台NS齐聚一堂后，剩下的就只有一个话题：塞尔达。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>这一天之后，一切都改变了。我从未想过在集中了软饭、任豚、索狗、育碧BOY、魔兽说书人、考据青年、Steam党、带狗流浪肥宅、抽卡狂魔、冷游戏达人等等众多没溜儿玩家的机核办公室里，会众口一词地赞颂同一个游戏，而且毫不吝惜任何溢美之辞。</p>
+
+        </div>
+        <div class="story_elem story_elem-image ">
+          <a target="_blank" href="http://alioss.g-cores.com/uploads/image/4d44b89d-90c1-4bde-ac30-9dc4908a0590_watermark.jpg">
+              <img class="j_storyshow_lazyload" data-original="http://alioss.g-cores.com/uploads/image/4d44b89d-90c1-4bde-ac30-9dc4908a0590_watermark.jpg" src="http://alioss.g-cores.com/uploads/image/4d44b89d-90c1-4bde-ac30-9dc4908a0590_watermark.jpg" style="display: block;">
+              <div class="story_caption">
+                3月10日凌晨2点30分，我们之中出现了一个叛徒
+              </div>
+</a>        </div>
+        <div class="story_elem story_elem-text ">
+          <p>需要向各位朋友致歉的是，在NS发售直播之后，我们没有拿出任何跟NS和塞尔达有关的站方文章——<strong>这是因为办公室已经陷入了《荒野之息》的完全统治之中</strong>。为了一款游戏，我们丧失了最好的热点流量时间，这是特别特别严重的工作失误。</p>
+
+<p><strong>但是，我们并没有任何信心，能将这部游戏的优秀之处表达出来，传递给你。</strong></p>
+
+        </div>
+        <div class="story_elem story_elem-embed j_story_elem ">
+            <iframe src="http://www.tudou.com/programs/view/html5embed.action?type=0&amp;code=ChRFtXvoxNk&amp;lcode=&amp;resourceId=548954378_06_05_99" allowtransparency="true" allowfullscreen="true" allowfullscreeninteractive="true" scrolling="no" border="0" frameborder="0" style="width:480px;height:400px;"></iframe>
+          
+            <div class="story_caption">
+              例子：一次失败的安利，大失败
+            </div>
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>所以，我们贫瘠的语言可能也完全无法描述这部游戏带给我们的体验与感受。任何与剧情有关的内容，都不会在文章中提及——我们只是想表达：</p>
+
+<p>&nbsp;</p>
+
+<blockquote>
+<p><strong>我们喜欢这部游戏。</strong></p>
+</blockquote>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <h3 id="j_header_1">小光：当我发现身后有着雨过天晴的两道彩虹时，我哭了</h3>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>作为一个办公室公认的任天堂玩家，我首先得道个歉。因为我基本没怎么玩过《塞尔达传说》系列中的作品，甚至连《天空之剑》和《风之杖》这两部作品连碰都没有碰过。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>我对《塞尔达传说》的概念认知从《缩小帽》开始，到《姆吉拉的假面HD》截止，这期间玩得最多的就是《幻影的沙漏》，可惜我被其中的谜题困住了，也没有见到海王神殿中的BOSS。<a href="http://www.g-cores.com/articles/22696" target="_blank">所以在去年E3《塞尔达传说 荒野之息》公开画面之前，我对这部作品一点「热情」或者说「喜爱」也没有，直到我在2月份的试玩会上玩了它15分钟。</a></p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>如果你是一个每天上机核看新闻的人，那只要你稍稍注意一下就会发现，从2月份回来以后的塞尔达新闻，基本上就是我在发了。而在之前，则一直都是对《塞尔达传说》更有些了解的42在发。至于为什么，是因为试玩会的15分钟中，我深深地被这款游戏吸引了。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>经历了1个月的煎熬后，我终于在上周五拿到了游戏，进入了这片海拉尔大陆。即使每天我在东京因为直播和后续的事情弄到很晚，但是我依旧会玩到夜里3点以后。在接下来这一周多的时间里，我每天保持着6-8小时的游戏时间去推进林克在这里行进着。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p style="text-align: center;"><strong>他不知道疲劳，我也如此。</strong></p>
+
+        </div>
+        <div class="story_elem story_elem-image ">
+          <a target="_blank" href="http://alioss.g-cores.com/uploads/image/0adcc638-9481-43fc-8f97-4229da891a89_watermark.jpg">
+              <img class="j_storyshow_lazyload" data-original="http://alioss.g-cores.com/uploads/image/0adcc638-9481-43fc-8f97-4229da891a89_watermark.jpg" src="http://alioss.g-cores.com/uploads/image/0adcc638-9481-43fc-8f97-4229da891a89_watermark.jpg" style="display: block;">
+</a>        </div>
+        <div class="story_elem story_elem-text ">
+          <p>我不停地向着东北方向前进，骑着我的爱马穿过山谷、穿过湿地、前往着远处那片仿佛一直在下雨的地方。我也不知道为什么我要朝着那里前进，我只是觉得那里有冒险的事情在等待着我。</p>
+
+<p>湿地上的马蹄声和水花溅起的声音让我想起了小时候雨后踩水的乐趣，偶尔雨停了，晨光之中我看着地面上反射的光线照射进我的眼睛里，让马慢下来，我和林克在那里好好享受了一下许久未见过的时光。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>为了打开全部的地图，我在结束了某件事件之后，便朝着大陆的西边前进，湿地和平原逐渐被高耸的山峰所阻拦，我花了大量的时间在这些山峰之间攀爬着，直至山顶，看着远方的流星划过，我真想坐在岩壁边烤着火，把自己放空。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>接下来的冒险旅行我去了沙漠、去了雪山、去了喷发岩浆的火山。在冒险途中，我从各种各样的NPC口中慢慢得知这100年来海拉尔经历了什么，而处于地图中心的海拉尔城堡是那么刺眼，无论我怎么转动视角都能看到它的存在。它就好像在嘲笑或者挑衅你一般，你不得不告诉你自己，这冒险还远远没有结束。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>我不知道这段从3月3日开始的冒险会到何时结束，这个世界实在太大了，大到我想去任何地方看一看，每个地方的季节、气候、给你的氛围都完全不同。就像我们生活的现实世界一样，当你走出了初始之地后，你就会发现，原来自己生活的地方是有多么小。</p>
+
+        </div>
+        <div class="story_elem story_elem-image ">
+          <a target="_blank" href="http://alioss.g-cores.com/uploads/image/6c5b6258-2d69-4e30-bbe4-800b2e7d3510_watermark.jpg">
+              <img class="j_storyshow_lazyload" data-original="http://alioss.g-cores.com/uploads/image/6c5b6258-2d69-4e30-bbe4-800b2e7d3510_watermark.jpg" src="http://alioss.g-cores.com/uploads/image/6c5b6258-2d69-4e30-bbe4-800b2e7d3510_watermark.jpg">
+</a>        </div>
+        <div class="story_elem story_elem-text ">
+          <p>这次的《塞尔达传说 荒野之息》和之前任何一部作品都不一样，也许我也有改变。但是在玩了这么多小时之后，我更加坚定了我之前的那句话：</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p style="text-align: center;"><strong>这是所有玩家都应该去尝试一下的作品，它是玩家们所期待的一部作品。</strong></p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>一个午后，我匆匆穿过峡谷。峡谷中在下着暴雨，两旁的岩壁湿滑我无法攀爬。一路奔跑着离开那里，在看到平原时雨小了，太阳出现。我转动摇杆猛然发现，我的身后有着雨过天晴的两道彩虹，那一刻我哭了。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p style="text-align: center;"><strong>我好像已经很久很久，没有看到这样的景象了。</strong></p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <h3 id="j_header_2">龙马：心甘情愿、毫不犹豫地评价为“伟大”</h3>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>ARPG是我最喜欢的游戏类型，而《塞尔达 荒野之息》大概是我活了十八年（误）以来玩到的最出色的ARPG作品，没有之一。</p>
+
+<p>但评价《荒野之息》对我来说却是一件很难完成的任务，因为它已经凌驾于我通过在它之前玩到的所有游戏而建立起的标准体系。所以我只能在这里单纯的用一个玩家和体验者的视角，来描述一下这款伟大作品给我带来的震撼与乐趣——<strong>是的，终于有一款游戏让我心甘情愿毫不犹豫的使用“伟大”这两个字来作为定语。</strong></p>
+
+        </div>
+        <div class="story_elem story_elem-image ">
+          <a target="_blank" href="http://alioss.g-cores.com/uploads/image/ef73d244-9438-447b-9e9b-7fdd3d39573d_watermark.jpg">
+              <img class="j_storyshow_lazyload" data-original="http://alioss.g-cores.com/uploads/image/ef73d244-9438-447b-9e9b-7fdd3d39573d_watermark.jpg" src="http://alioss.g-cores.com/uploads/image/ef73d244-9438-447b-9e9b-7fdd3d39573d_watermark.jpg">
+</a>        </div>
+        <div class="story_elem story_elem-text ">
+          <p><strong>《荒野之息》是一种回归。</strong>它让我我回归到我儿时对“玩”这个字的最本源的渴望，回归到我疯跑在学校的操场上、幻想着自己是悟空、星矢、潘、或者哈利波特的美好时光。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p><strong>《荒野之息》是一次颠覆。</strong>它让我卸下了所有成人的现实世界和游戏世界给我的既定常识与枷锁，去相信无论现实与游戏，都还有着无尽的可能。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p><strong>《荒野之息》是一声警钟。</strong>在我习惯了对一款游戏用自己的标准去品头论足时，重新感受到了对于创作者与匠人、创意与完成的敬畏。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p><strong>《荒野之息》是一件艺术品。</strong>如果游戏可以被称为是一种艺术，那除去从其他艺术形式借鉴和引入的既有成果，仅仅是高级的Play体验也足以被称为艺术——很多游戏已经证明了这一点。而如果你想象过一款从美术、音乐等艺术表现充分的继承了固有艺术，又同时具备极致的“游戏艺术”的游戏，那《荒野之息》很可能是这个时代最接近这个理想的作品。</p>
+
+        </div>
+        <div class="story_elem story_elem-image ">
+          <a target="_blank" href="http://alioss.g-cores.com/uploads/image/58dcaca5-78fe-4996-bb2c-19470707b17a_watermark.jpg">
+              <img class="j_storyshow_lazyload" data-original="http://alioss.g-cores.com/uploads/image/58dcaca5-78fe-4996-bb2c-19470707b17a_watermark.jpg" src="http://alioss.g-cores.com/uploads/image/58dcaca5-78fe-4996-bb2c-19470707b17a_watermark.jpg">
+</a>        </div>
+        <div class="story_elem story_elem-text ">
+          <p><strong>对我来说，《荒野之息》是电子游戏这一表现形式所达到的又一个巅峰，对游戏业来说它很有可能在相当长的一段时间内都是一个无法企及的丰碑。</strong></p>
+
+<p>而对于游戏之外的世界来说，它可能是一份答卷，回答了年轻的“游戏艺术”在现在这个时间点，究竟可以达到的怎样的高度；回答了游戏，可以多么美妙。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <h3 id="j_header_3">西总：什么是“玩儿好游戏”</h3>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p><strong>说来惭愧，《塞尔达传说：荒野之息》是我人生中第一款决定好好体验的塞尔达游戏。</strong>作为一个对本系列的世界观等等一无所知的新人，游戏给我的第一感觉就是“干净”，这种由内而外的清澈非常打动我。</p>
+
+        </div>
+        <div class="story_elem story_elem-image ">
+          <a target="_blank" href="http://alioss.g-cores.com/uploads/image/e840c177-bb97-4c9e-ba6c-167c20f2cae1_watermark.jpg">
+              <img class="j_storyshow_lazyload" data-original="http://alioss.g-cores.com/uploads/image/e840c177-bb97-4c9e-ba6c-167c20f2cae1_watermark.jpg" src="http://alioss.g-cores.com/uploads/image/e840c177-bb97-4c9e-ba6c-167c20f2cae1_watermark.jpg">
+</a>        </div>
+        <div class="story_elem story_elem-text ">
+          <p>因为我特别看重游戏本身“玩儿”的这一部分，相比叙事、镜头、设定等等，游戏的手感、系统、关卡设计更能让我在游戏中得到满足，《塞尔达传说：荒野之息》恰好能让我放肆地享受海拉尔大陆的每一寸土地，几乎每过几十分钟我们都能感叹：原来游戏还能这样玩儿…游戏中的许多细节也更值得我们尊敬，例如在新闻节目中提到的，林克更换装备后，奔跑时我们甚至能听到武器和盾牌碰撞发出的声音，诸如此类的“用心”有时真的不是仅仅“大制作”就能做到的。</p>
+
+<p><strong>虽然距离游戏通关尚早，但《塞尔达传说：荒野之息》真的一直在感动我，也真的让我找回了许久未曾有过的，对“好游戏”这三个字的理解。</strong></p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <h3 id="j_header_4">四十二：这是一个我最熟悉也最陌生的游戏</h3>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p><a href="http://www.g-cores.com/articles/23462" target="_blank">首先我感到特别欣喜的是《荒野之息》推翻了我那篇推荐里几乎所有的东西</a>，唯独没有破坏的是它“创造属于玩家自己独有的冒险”的体验，和“成长的是玩家的记忆与经验”这件事。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>是的，这一次，主角的名字确定为林克； 这一次，我看到各种武器有明确的攻击力； 这一次，不只是我们的知识和经验，我们的人物也明确地成长； 这一次，塞尔达传说不再仅仅是“与其他游戏截然不同”，而是充满了我们熟悉的元素——但都做得更好； 这一次，我印象中那些“典型”的塞尔达元素似乎都不再有了，至少不再是必须要有的了。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>《荒野之息》对于《塞尔达传说》整个系列，是一个崭新的作品。我觉得之前的《塞尔达传说》是“精简且纯粹的冒险”，除了纯粹的冒险和谜题以外，它没有也没必要有额外的任何东西——可《荒野之息》是“充实而丰满的冒险”，在这里除了冒险和谜题以外还塞满了东西，<strong>但它依然是冒险，最纯真和最快乐的那种</strong>。</p>
+
+        </div>
+        <div class="story_elem story_elem-image ">
+          <a target="_blank" href="http://alioss.g-cores.com/uploads/image/f4c99199-e267-4fd1-bdd9-a415a1104b30_watermark.png">
+              <img class="j_storyshow_lazyload" data-original="http://alioss.g-cores.com/uploads/image/f4c99199-e267-4fd1-bdd9-a415a1104b30_watermark.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAADICAIAAABJdyC1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkEyOEM5NzY1RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkEyOEM5NzY2RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTI4Qzk3NjNGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTI4Qzk3NjRGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4p9fWdAAACBElEQVR42uzUMQ0AAAgEMcC/xfeCCgaSVsIN10kK4IORADAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwK4swIMAGdjBCfyHf92AAAAAElFTkSuQmCC">
+</a>        </div>
+        <div class="story_elem story_elem-text ">
+          <p>我曾经那么热爱开放世界游戏、后来又那么的讨厌它们，我曾经把每一个我能玩到的开放世界游戏都拿来把玩，无论是《孤岛惊魂》、《刺客信条》，还是《古墓丽影》、《正当防卫》——那里什么都有，有故事、有人物、有悲欢离合，有文化、有知识、有历史，有解谜、有狩猎、有潜入、有战斗...<strong>但唯独没有冒险</strong>。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>在《荒野之息》中，我曾经最讨厌的游戏玩法几乎都变得有乐趣了——玩了快20个小时，我突然意识到自己没那么讨厌烹饪、没那么讨厌钓鱼、没那么讨厌满地捡东西、没那么讨厌开放世界、没那么讨厌迷宫、也没那么讨厌生存游戏了。等到我最终放下NS的时候，我突然愿意回头去玩那些我曾经非常讨厌的游戏，比如《Don't Starve》和《Dayz》之类的。</p>
+
+        </div>
+        <div class="story_elem story_elem-image ">
+          <a target="_blank" href="http://alioss.g-cores.com/uploads/image/49f3cc5c-758d-4d05-b7df-a1930953295f_watermark.jpg">
+              <img class="j_storyshow_lazyload" data-original="http://alioss.g-cores.com/uploads/image/49f3cc5c-758d-4d05-b7df-a1930953295f_watermark.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAADICAIAAABJdyC1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkEyOEM5NzY1RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkEyOEM5NzY2RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTI4Qzk3NjNGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTI4Qzk3NjRGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4p9fWdAAACBElEQVR42uzUMQ0AAAgEMcC/xfeCCgaSVsIN10kK4IORADAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwK4swIMAGdjBCfyHf92AAAAAElFTkSuQmCC">
+</a>        </div>
+        <div class="story_elem story_elem-text ">
+          <p><strong>说实话我说不清《荒野之息》有多好玩，我觉得自己再经过几十个小时我也说不明白它哪里好玩，但我想这已经不太重要了。</strong></p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>怎么评价《荒野之息》呢...对我来说它不像是个地球上的游戏。它像外星人观察了十几年地球文明之后，照着开放世界游戏这个概念尝试着做出来的东西——<strong>它用我意料之外的手法去实现我熟悉的游戏形式，做出了一个我最熟悉也最陌生的游戏。</strong></p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <h3 id="j_header_5">无头：对于开放世界，这是从0到1</h3>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>对于一个从来没有玩过塞尔达系列的玩家来说，一开始让我玩《荒野之息》我是拒绝的。</p>
+
+<p>我承认，我坦白，我是一个那种看评分玩游戏的跟风狗。所谓高分看媒体，低分信自己说的就是我这种人。在世界各大游戏媒体争先给出满分的评价之后，入《塞尔达：荒野之息》这件事情对我来说就变的毫无疑问了。因为在我看来，能有这种分数的游戏对全世界所有的玩家来说都是一件幸福的事情。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p><strong>我曾经幻想过一种游戏，就是在这种游戏之中，游戏世界和现实的世界几乎是一样的，你现实世界什么事情能做到，在游戏里面你就能够做。</strong>于是在现代的背景之下，有了《GTA5》这种游戏，它满足了我的需求，可是在魔幻的背景下，至今没有一款游戏能够做到这样，直到我玩到了《塞尔达：荒野之息》。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>这个世界太像是一个真实的世界了。我在这个世界里面几乎可以做任何我想做的事情，我可以做料理，可以砍树，我只要能想到的事情都能做。和现实的世界一样，所有的事情都有着自己的解决方法。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>在战斗上也是同样的，任何的战斗玩家都可以选择自己喜欢的方式进行。可能有的人会认为所有开放世界都是这样，但是实际上是不一样的。开放世界做的难的地方在于细节。有些很小的地方会影响到玩家对于游戏很大的体验。《荒野之息》最强大的就在于它在细节上做的实在太好了。玩家在不知不觉的时候就会玩上几个小时——事实上，我经常躺在床上玩了好久，睡觉的时候发现自己其实什么都没干。</p>
+
+        </div>
+        <div class="story_elem story_elem-image ">
+          <a target="_blank" href="http://alioss.g-cores.com/uploads/image/53c02fd6-4c60-46bc-b672-c8b3ef20f9c0_watermark.jpg">
+              <img class="j_storyshow_lazyload" data-original="http://alioss.g-cores.com/uploads/image/53c02fd6-4c60-46bc-b672-c8b3ef20f9c0_watermark.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAADICAIAAABJdyC1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkEyOEM5NzY1RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkEyOEM5NzY2RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTI4Qzk3NjNGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTI4Qzk3NjRGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4p9fWdAAACBElEQVR42uzUMQ0AAAgEMcC/xfeCCgaSVsIN10kK4IORADAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwK4swIMAGdjBCfyHf92AAAAAElFTkSuQmCC">
+</a>        </div>
+        <div class="story_elem story_elem-text ">
+          <p>开放世界之中一直有一个很....怎么说...很固定的设置，那就是Checklist。比如你去玩育碧的有一些开放世界游戏，甚至说像是《巫师3》，一打开地图都会密密麻麻的出现一堆地图要素。但是事实上，这些要素并没有那么的重要，只是会逼死强迫症而已。但你去玩《辐射》或者《GTA》，就没有这种东西，你走到哪儿，这个事情就发生了。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>《荒野之息》做的更加彻底，游戏中除了神殿和高塔这两个也许算是CheckList的东西之外，其他的所有全都是可以探索的。他更像是一个让你可以随意去冒险的世界。<strong>你看到一群鸟，你跟着追过去，鸟飞起来；你看到一条河，走过去，河里面有着宝藏；你看到一座山，你看到云端在那里，你努力爬上去；山顶上有一个宝箱，你打开宝箱，拿到了一把剑。</strong></p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>在玩《荒野之息》的时候，我没有任何的压力。这是一个让我自己都觉得很神奇的事情。比如《如龙》这种游戏，虽然勉强它也算是一个开放世界，但是我总有一种去推主线的压力。而且游戏的主线和游戏的开放世界要素完全是对立的——马上就要开打了，你还去唱卡拉OK，这不是搞笑吗？</p>
+
+        </div>
+        <div class="story_elem story_elem-image ">
+          <a target="_blank" href="http://alioss.g-cores.com/uploads/image/c8958bbb-f995-43fe-a7a3-a404709a7787_watermark.png">
+              <img class="j_storyshow_lazyload" data-original="http://alioss.g-cores.com/uploads/image/c8958bbb-f995-43fe-a7a3-a404709a7787_watermark.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAADICAIAAABJdyC1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkEyOEM5NzY1RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkEyOEM5NzY2RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTI4Qzk3NjNGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTI4Qzk3NjRGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4p9fWdAAACBElEQVR42uzUMQ0AAAgEMcC/xfeCCgaSVsIN10kK4IORADAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwK4swIMAGdjBCfyHf92AAAAAElFTkSuQmCC">
+</a>        </div>
+        <div class="story_elem story_elem-text ">
+          <p><strong>但是《荒野之息》不是这样的。因为它压根不会给我任何压力。</strong></p>
+
+<p>我直接被丢到这个大陆上，然后主线直接给了我一个任务让我干掉最终boss。其他的主线任务离我现在待的地方十万八千里，根本走不到。所以在这种情况之下，我干脆就放下心来，或者只能放下心来尽情探索这个世界。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>缺乏了主线任务的推动，我每天玩游戏的目的只有一个就是探索和发现。他不是《巫师3》那种强叙事的开放世界，也不是《GTA》那种弱叙事的开放世界，《塞尔达：荒野之息》就是一个让你可以随意探索的世界，这里有各种有趣的谜题，有各种制作人放进去的小细节，有着各种各样的boss和战斗，这里的传说是你自己的传说。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p><strong>如果世界上有两种满分游戏，一种是0到1，另一种是9到10的话，《塞尔达：荒野之息》对于开放世界，就如同《魔兽世界》对MMORPG类型游戏，《马里奥》对于横版过关游戏，《MGS》对潜行游戏一样，是一个从0-1的游戏。</strong></p>
+
+        </div>
+        <div class="story_elem story_elem-image ">
+          <a target="_blank" href="http://alioss.g-cores.com/uploads/image/099bf6f3-7c84-46fe-bbdb-e8a8d7de1b88_watermark.jpg">
+              <img class="j_storyshow_lazyload" data-original="http://alioss.g-cores.com/uploads/image/099bf6f3-7c84-46fe-bbdb-e8a8d7de1b88_watermark.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAADICAIAAABJdyC1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkEyOEM5NzY1RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkEyOEM5NzY2RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTI4Qzk3NjNGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTI4Qzk3NjRGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4p9fWdAAACBElEQVR42uzUMQ0AAAgEMcC/xfeCCgaSVsIN10kK4IORADAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwK4swIMAGdjBCfyHf92AAAAAElFTkSuQmCC">
+              <div class="story_caption">
+                为什么！为什么要让我玩到这样一个游戏！？我要是以后玩不到了该怎么办啊！
+              </div>
+</a>        </div>
+        <div class="story_elem story_elem-text ">
+          <h3 id="j_header_6">弓虎：当你们滔滔不绝地感慨时，我只是在玩山</h3>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>老白找我约稿的时候，我是抗拒的，因为同时被约的这几个人，个个都是口吐莲花绝非善茬！后来我打听了一下大家的写文方向，琢磨了很久，才决定赌一把。既然没有别人写得好，又不需要比别人写得多，那就比别人写得要奇怪吧。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p><strong>所以，我们来说山与爬山。</strong></p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>请看着本作副标题，来想象一个画面，这个画面将是你游玩这个游戏的主要基调：晴朗天空下，阳光金黄，空间旷达又充斥满植物味道，甜得好像能够让鼻子发疯一样。翠色草地在脚下蔓延开去，身边有一只、两只、三只低头吃草的岩羊，头上坚硬卷曲的犄角尖，直直地指向蓝天。不远处有一群结队奔驰的野马，纯色的总是领头，跑得比那些带着斑点与条纹的同类要快一些。在马群奔跑线路的尽头，是一汪碧蓝的湖水，水底沉着百年前被藏起的宝箱，向探险者放射出炽热的诱惑，金属箱壁反射太阳，混杂在鱼群投向水面的阴影间，好似银河中的星星在闪光。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p><strong>像母亲一样伸出山峦的双臂，爱怜地环抱这绿意的世界的，是群山。</strong></p>
+
+        </div>
+        <div class="story_elem story_elem-image ">
+          <a target="_blank" href="http://alioss.g-cores.com/uploads/image/5fcc2718-ae66-43cc-968e-fb974733bf32_watermark.jpg">
+              <img class="j_storyshow_lazyload" data-original="http://alioss.g-cores.com/uploads/image/5fcc2718-ae66-43cc-968e-fb974733bf32_watermark.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAADICAIAAABJdyC1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkEyOEM5NzY1RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkEyOEM5NzY2RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTI4Qzk3NjNGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTI4Qzk3NjRGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4p9fWdAAACBElEQVR42uzUMQ0AAAgEMcC/xfeCCgaSVsIN10kK4IORADAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwK4swIMAGdjBCfyHf92AAAAAElFTkSuQmCC">
+</a>        </div>
+        <div class="story_elem story_elem-text ">
+          <p><strong>没错，在这个世界里，抛开林克，山也是主角，带着各自不同的性格，屹立在海拉尔舞台。</strong></p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>有的山带着和缓的曲线，是好脾气的街角邻居先生，长满了蘑菇和苹果树，欢迎你的来到。就像儿童在后院午后冒险，湿润的草地编织成安全又舒适的厚厚地毯，温柔地承载着那蹦跳雀跃的脚步，安置和照看你在绿色的萦绕中沉沉睡去。又悄悄地派着林中精灵，在孩子的口袋中塞满苹果。只待你离去，迈向人生的下一个驿站，还在默默祝福，静静守护。</p>
+
+        </div>
+        <div class="story_elem story_elem-image ">
+          <a target="_blank" href="http://alioss.g-cores.com/uploads/image/635194c8-9609-462e-9450-d8c111896bdd_watermark.jpg">
+              <img class="j_storyshow_lazyload" data-original="http://alioss.g-cores.com/uploads/image/635194c8-9609-462e-9450-d8c111896bdd_watermark.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAADICAIAAABJdyC1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkEyOEM5NzY1RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkEyOEM5NzY2RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTI4Qzk3NjNGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTI4Qzk3NjRGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4p9fWdAAACBElEQVR42uzUMQ0AAAgEMcC/xfeCCgaSVsIN10kK4IORADAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwK4swIMAGdjBCfyHf92AAAAAElFTkSuQmCC">
+</a>        </div>
+        <div class="story_elem story_elem-text ">
+          <p>有的山是美艳而又危险的冰雪女王，傲然顶着风霜站立，用冰冷的颜色拒人千里之外，用寒风划出安全距离。笔直的峭壁上贴着无法抓贴的冰壳，这想必是极为娇气的，她既不希望你触碰她高洁的躯干，却又想在极寒的表面上冻结你鲜活的肉体，让你无法离开直至冰霜腐蚀你血液中的热力，最后与你合而为一，融为一体。她是如此致命，以至于没有御寒的大衣和火热的料理的你，必然会在她致命的冰冷热情中枯萎凋零。</p>
+
+        </div>
+        <div class="story_elem story_elem-image ">
+          <a target="_blank" href="http://alioss.g-cores.com/uploads/image/934389c0-d313-4a83-a7a2-3dba3b157ec7_watermark.jpg">
+              <img class="j_storyshow_lazyload" data-original="http://alioss.g-cores.com/uploads/image/934389c0-d313-4a83-a7a2-3dba3b157ec7_watermark.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAADICAIAAABJdyC1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkEyOEM5NzY1RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkEyOEM5NzY2RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTI4Qzk3NjNGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTI4Qzk3NjRGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4p9fWdAAACBElEQVR42uzUMQ0AAAgEMcC/xfeCCgaSVsIN10kK4IORADAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwK4swIMAGdjBCfyHf92AAAAAElFTkSuQmCC">
+</a>        </div>
+        <div class="story_elem story_elem-text ">
+          <p>还有些山像是火爆性格粗糙的醉汉，性情多变，阴晴不定。他身上披挂着闪电，只要你身上带着导电材质，无论你逃向哪个方向，电流都会将你狠狠穿刺，重重惩罚。山谷中流淌着着岩浆，或者在山体深处荆棘丛中藏有隐秘的神庙，迫使你带着全部装备，使尽浑身解数抵达。待到你迈开最后一步前，高山嗅到你松懈的气息，指使埋伏的三百刀斧手将你狠狠砍翻在地，通过这样热烈的欢迎，把你和你那些踏破天下的梦想，送回到山脚。“这次的痛哭流涕，是奉送的哦～”它俯视渺小的你，挤眉弄眼地对你说。</p>
+
+        </div>
+        <div class="story_elem story_elem-image ">
+          <a target="_blank" href="http://alioss.g-cores.com/uploads/image/42e91e0c-9fb3-4b43-ab33-0b5555471e8c_watermark.jpg">
+              <img class="j_storyshow_lazyload" data-original="http://alioss.g-cores.com/uploads/image/42e91e0c-9fb3-4b43-ab33-0b5555471e8c_watermark.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAADICAIAAABJdyC1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkEyOEM5NzY1RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkEyOEM5NzY2RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTI4Qzk3NjNGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTI4Qzk3NjRGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4p9fWdAAACBElEQVR42uzUMQ0AAAgEMcC/xfeCCgaSVsIN10kK4IORADAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwK4swIMAGdjBCfyHf92AAAAAElFTkSuQmCC">
+</a>        </div>
+        <div class="story_elem story_elem-text ">
+          <p><strong>而荒野之息，对于我来说，不完全是曲折的剧情，精妙的手感，有趣的迷宫，逐步的成长，丰富的要素，有趣的任务。</strong></p>
+
+<p>是的，这些都有，这是我个人游戏史上最棒的沙盒世界。<strong>但是，对我而言，这块海拉尔的最大魅力，就是征服和越过一座座形态各异的高山。</strong>是最为简单地蹦蹦跳跳，徒步通过；是巧妙地计算风向和距离，从旁边更高的山峰上滑翔穿越；是步步为营，找到山壁间不起眼的歇脚处一点点慢慢攀登；是迂回曲折，找更远的路线绕过险峰，寻找更平缓友好的坡度；是使用最笨的方式，通过增强自己的耐力，生生爬过一块块更高、更滑的岩壁。</p>
+
+<p><strong>这场冒险是如此有趣，以至于当我偶然回头细细咀嚼的时候，发现我已经走过各种各样的山峰，积累了各种各样的经验，在这个世界度过了各种的时间，就像这是我自己的生命与冒险一样。</strong></p>
+
+        </div>
+        <div class="story_elem story_elem-image ">
+          <a target="_blank" href="http://alioss.g-cores.com/uploads/image/6f809266-699c-4f5c-95c2-533c5e644598_watermark.png">
+              <img class="j_storyshow_lazyload" data-original="http://alioss.g-cores.com/uploads/image/6f809266-699c-4f5c-95c2-533c5e644598_watermark.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAADICAIAAABJdyC1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkEyOEM5NzY1RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkEyOEM5NzY2RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTI4Qzk3NjNGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTI4Qzk3NjRGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4p9fWdAAACBElEQVR42uzUMQ0AAAgEMcC/xfeCCgaSVsIN10kK4IORADAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwK4swIMAGdjBCfyHf92AAAAAElFTkSuQmCC">
+</a>        </div>
+        <div class="story_elem story_elem-text ">
+          <p><strong>一个好玩的游戏。</strong>这就是我对于荒野之息的评价，我的要求不多，那些平台、阵营、画面、帧数、销量、口碑、本地化、IP之争，都不是问题。享受游戏带来的纯粹快乐，对于我来说，这就够了。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p><strong>少年，玩山么？</strong></p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <h3 id="j_header_7">老白：无知的喜悦</h3>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>虽然是我提出大家对这篇文章进行集体创作的构想，但是轮到我这里时，对这个游戏本身却并没有什么想说的。并不是以上的几位已经将《荒野之息》的优点说完——恰恰相反，如果想要说的话，这个话题几乎无穷无尽。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>我甚至也无法说清我对《荒野之息》的感觉——上一次有游戏让我产生这种感觉是1999年，那个游戏叫《辐射2》。那时，我没头没脑地在战后的废土上自由地行走，发现一个城镇，邂逅一名旅人，遭遇一伙劫匪，逃离一群怪物，在无知的喜悦与蓬勃的好奇心中，拯救了一个世界。</p>
+
+        </div>
+        <div class="story_elem story_elem-image ">
+          <a target="_blank" href="http://alioss.g-cores.com/uploads/image/260f78eb-ce06-41fb-abf5-2d07a312a38e_watermark.jpg">
+              <img class="j_storyshow_lazyload" data-original="http://alioss.g-cores.com/uploads/image/260f78eb-ce06-41fb-abf5-2d07a312a38e_watermark.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAADICAIAAABJdyC1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkEyOEM5NzY1RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkEyOEM5NzY2RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTI4Qzk3NjNGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTI4Qzk3NjRGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4p9fWdAAACBElEQVR42uzUMQ0AAAgEMcC/xfeCCgaSVsIN10kK4IORADAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwK4swIMAGdjBCfyHf92AAAAAElFTkSuQmCC">
+</a>        </div>
+        <div class="story_elem story_elem-text ">
+          <p>我曾经以为这个时代有关游戏的话题都已经大同小异，我也曾以为时光至此，所有“开放世界”与“沙盒游戏”的话题已经不再值得多费脑筋——因为反正都是同样的套路。我在《辐射4》的世界中耗费了600多个小时，虽然我对它很不满意，但它至少还是《辐射》。它最接近我曾经理解的“游戏世界”，尽管它本身离我的理想已经有了相当的距离。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>我曾经对NS完全不感兴趣，因为我认为虽然“老任，游戏性！聚会杀手！好玩！”，但是我并没有必须购买另一台主机的必要理由。机能、画面、第一方独占游戏这几个角度，都没有说服我的关键因素。</p>
+
+<p>我一直听说《塞尔达传说》很伟大，但那种伟大离我太远。《时之笛》的辉煌年代，我不可能买得起N64；当它在3DS上重置时，已经是手机占领人们所有碎片时间的又一个时代。《塞尔达》的荣耀，我不知道，也不想知道，因为它与我并无关联。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p><strong>人会随着年龄的增长，变成一个经验动物，倚赖于过去所留下的记忆，解决问题，面对世界。固执、自满、傲慢，都按照年轮来增加对应的百分比，与之对应的则是好奇心、冲动与乐趣的消退，直到肉体和精神一同老去，化作尘埃。</strong></p>
+
+<p>我的女儿1岁多了，她很喜欢一个普通的塑料罐子。那个罐子就是某种食物的容器，我记不得它从哪里来，也不知道为什么孩子会喜欢它。我曾经把它从女儿的玩具篮子里拿走藏起来，直到她始终找不到急得大哭才还给她，看着她脸上挂着的泪珠，我哈哈大笑的同时想：</p>
+
+<blockquote>
+<p>“真傻，不就是一个罐子吗？”</p>
+</blockquote>
+
+        </div>
+        <div class="story_elem story_elem-image ">
+          <a target="_blank" href="http://alioss.g-cores.com/uploads/image/f03fe62c-1d06-4727-b6bf-e26132a4e609_watermark.jpg">
+              <img class="j_storyshow_lazyload" data-original="http://alioss.g-cores.com/uploads/image/f03fe62c-1d06-4727-b6bf-e26132a4e609_watermark.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAADICAIAAABJdyC1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkEyOEM5NzY1RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkEyOEM5NzY2RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTI4Qzk3NjNGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTI4Qzk3NjRGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4p9fWdAAACBElEQVR42uzUMQ0AAAgEMcC/xfeCCgaSVsIN10kK4IORADAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwK4swIMAGdjBCfyHf92AAAAAElFTkSuQmCC">
+              <div class="story_caption">
+                就是这么个罐子
+              </div>
+</a>        </div>
+        <div class="story_elem story_elem-text ">
+          <p>如果没有意外，这篇文章完成的时候，将是旭日东升。我的女儿将会醒来，而我将会向她作出一个父亲应有的道歉，无论她是否能理解，无论她是否会记得。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>是《塞尔达：荒野之息》告诉我：最真挚的欢乐应该来自何处。它萌发于我曾体验过的那些对这个世界的探索与认识，从无知到有知的过程。我曾堆起沙土，当作坚不可摧的城堡；我曾折下树枝，当作吹发断金的宝剑；我曾身披被单，以为自己是万中无一的侠客。我曾认为自己是这世上的唯一，是神眷顾的使者，是世界的中心。</p>
+
+<p><strong>但我不是。</strong></p>
+
+<p>当我知道自己并不是获选者时，当我以为自己已经足够了解游戏以及现实世界这个罐子的大部分或全部时，当我明白这世界并非如同期许般随心所欲时，我沮丧地停下了脚步，放弃了思考，用习以为常的“哦”“啊”“是吗”“哈哈”打发着周围的一切，仿佛自己生来就是这副模样。</p>
+
+        </div>
+        <div class="story_elem story_elem-image ">
+          <a target="_blank" href="http://alioss.g-cores.com/uploads/image/18148e0c-8a84-41bd-b71f-5ab77a9bd104_watermark.jpg">
+              <img class="j_storyshow_lazyload" data-original="http://alioss.g-cores.com/uploads/image/18148e0c-8a84-41bd-b71f-5ab77a9bd104_watermark.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAADICAIAAABJdyC1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkEyOEM5NzY1RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkEyOEM5NzY2RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTI4Qzk3NjNGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTI4Qzk3NjRGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4p9fWdAAACBElEQVR42uzUMQ0AAAgEMcC/xfeCCgaSVsIN10kK4IORADAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwK4swIMAGdjBCfyHf92AAAAAElFTkSuQmCC">
+</a>        </div>
+        <div class="story_elem story_elem-text ">
+          <p><strong>而《荒野之息》给了我一次重新认识世界的机会。</strong>我并不在意这个世界叫作海拉尔还是什么，我只知道，当我面对这个世界跨出第一步时，那种不安的、无知的喜悦又在我心中躁动起来。我如此贪婪地试图去寻找、去发现、去探索，得到属于我自己的结论，梦想这个世界的天涯海角与无穷无尽。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p><strong>我从未想过，我在36岁时能重新得到这种感觉：面对《荒野之息》，我为自己的无知感到无上的喜悦。</strong></p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <h3 id="j_header_8">不是结语</h3>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>就Nintendo Switch这台主机而言，它离完美还有很大的距离——而我并不怀疑，如果要列举《荒野之息》的缺点，也会同样拉出一个很长的列表。</p>
+
+<p><strong>但如果你注意到了这篇文章的栏目分类，就会发现它并未归入“安利大帝”，而是“不吐不快”。</strong>这个栏目的范畴之广、内容之杂，曾经让我无所适从——但在今天，它是最适合这篇文章的栏目。</p>
+
+<p>不，这不是安利。机核办公室的任何人并没有任何理由能够让读到这里的你去花费3000多元，在这个首发溢价的风口浪尖，去买一台NS和《荒野之息》回来，只为了可能极其言过其实的期待，而后可能带来巨大的失望。</p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p>我们希望你能通过自己的判断，确定自己的立场，以及对《荒野之息》是否存在那么大的兴趣。如果你真的想要进一步了解它，那么在朋友那里体验、看别人玩、看直播，都是感受这个游戏的方法。在此之后，如果你还想了解更多，体会更多，发现更多——届时再做决定也来得及。</p>
+
+<p><strong>毕竟，游戏就在那里。如果你想玩，并没有什么能阻挡你。</strong></p>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <h3 id="j_header_9">最后</h3>
+
+        </div>
+        <div class="story_elem story_elem-text ">
+          <p><a href="http://www.g-cores.com/volumes/23564" target="_blank">和本周新闻所说的一样，3月11日—3月25日，机核将暂不发表任何与《荒野之息》的剧情、攻略要素、战斗特征甚至遭遇细节相关的投稿。</a>我们明白，这期间任何冠以《塞尔达》名号的文章都有可能为机核带来过万的点击，这个决定将是流量上巨大的损失。</p>
+
+<p>你可以把这个决定看作是我们的自私。我们把这个体验游戏的黄金时间留给自己，也留给正在阅读机核的你们。<strong>我们希望所有《荒野之息》的玩家在这短暂的两周里，能放下所有有关游戏的包袱，享受游戏带来的原初的乐趣。这一切无关胜负高低，只为了游戏和自己。</strong></p>
+
+<p>谢谢你们能读这篇文章。</p>
+
+        </div>
+        <div class="story_elem story_elem-image ">
+          <a target="_blank" href="http://alioss.g-cores.com/uploads/image/5cd64367-a32b-4f29-9bd2-4c540e961e66_watermark.jpg">
+              <img class="j_storyshow_lazyload" data-original="http://alioss.g-cores.com/uploads/image/5cd64367-a32b-4f29-9bd2-4c540e961e66_watermark.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAADICAIAAABJdyC1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkEyOEM5NzY1RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkEyOEM5NzY2RjY0NDExRTVCODNBRTA5NzU1RTZCOUUyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTI4Qzk3NjNGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTI4Qzk3NjRGNjQ0MTFFNUI4M0FFMDk3NTVFNkI5RTIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4p9fWdAAACBElEQVR42uzUMQ0AAAgEMcC/xfeCCgaSVsIN10kK4IORADAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwIwLADDAgwLwLAADAswLADDAjAswLAADAvAsADDAjAsAMMCDAvAsADDAjAsAMMCDAvAsAAMCzAsAMMCMCzAsAAMC8CwAMMCMCwAwwIMC8CwAAwLMCwAwwIwLMCwAAwLwLAAwwK4swIMAGdjBCfyHf92AAAAAElFTkSuQmCC">
+              <div class="story_caption">
+                3月10日晚9点，Nadya的NS何时到手还是未知数……
+              </div>
+</a>        </div>
+  </div>

@@ -98,11 +98,11 @@
     methods: {
       scrollEvent () {
         let justScroll = false
-        window.onscroll = (e) => {
+        window.addEventListener('scroll', (e) => {
           if (window.pageYOffset > 500) {
-            this.toTopBtnStyle = true
+            if (this.toTopBtnStyle === false) this.toTopBtnStyle = true
           } else {
-            this.toTopBtnStyle = false
+            if (this.toTopBtnStyle === true) this.toTopBtnStyle = false
           }
           if (!justScroll) {
             justScroll = true
@@ -112,7 +112,7 @@
             }
             setTimeout(() => { justScroll = false }, 200)
           }
-        }
+        })
         var scrollAction = {x: 'undefined', y: 'undefined'}
         var scrollDirection
         function scrollFunc () {

@@ -14,7 +14,7 @@
 
 <template>
   <div class="article-content">
-    <p>{{data.content}}</p>
+    <p v-html="data.content"></p>
   </div>
 </template>
 
@@ -27,6 +27,13 @@
           return {
             content: ''
           }
+        }
+      }
+    },
+    directives: {
+      lazyLoad: {
+        bind (el) {
+          
         }
       }
     }
