@@ -20,9 +20,18 @@ export default {
     ArticleContent
   },
   data () {
+    class PressData {
+      constructor () {
+        this.title = ''
+        this.brief = ''
+        this.lastTime = ''
+        this.titleImage = ''
+        this.authorImg = ''
+      }
+    }
     return {
-      bannerData: null,
-      contentData: null
+      bannerData: new PressData(),
+      contentData: new PressData()
     }
   },
   beforeCreate () {

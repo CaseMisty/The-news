@@ -4,8 +4,10 @@
     width: 1030px;
   }
   * {
-    font: 14px/1.5 "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei", sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei", sans-serif;
     text-align: left; // color: #2c3e50;
+    font-size: 14px;
+    line-height: 1.5;
     margin: 0;
     padding: 0;
     border: 0;
@@ -97,15 +99,15 @@
     },
     methods: {
       scrollEvent () {
-        let justScroll = false
         window.addEventListener('scroll', (e) => {
-          if (window.pageYOffset > 500) {
-            if (this.toTopBtnStyle === false) this.toTopBtnStyle = true
-          } else {
-            if (this.toTopBtnStyle === true) this.toTopBtnStyle = false
-          }
+          let justScroll = false
           if (!justScroll) {
             justScroll = true
+            if (window.pageYOffset > 500) {
+              if (this.toTopBtnStyle === false) this.toTopBtnStyle = true
+            } else {
+              if (this.toTopBtnStyle === true) this.toTopBtnStyle = false
+            }
             scrollFunc()
             if (scrollDirection === 'down') {
             } else if (scrollDirection === 'up') {
