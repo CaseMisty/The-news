@@ -67,8 +67,6 @@ export default {
     this.$http.post('/api/selectAllArticle.htm')
     .then((res) => {
       this.articles = res.data
-      console.log('selectAllArticles')
-      console.dir(res)
     }, (err) => {
       this.$messsage.error(err)
     })

@@ -99,10 +99,10 @@
     },
     methods: {
       scrollEvent () {
+        var timeout = null
         window.addEventListener('scroll', (e) => {
-          let justScroll = false
-          if (!justScroll) {
-            justScroll = true
+          clearTimeout(timeout)
+          setTimeout(() => {
             if (window.pageYOffset > 500) {
               if (this.toTopBtnStyle === false) this.toTopBtnStyle = true
             } else {
@@ -112,8 +112,7 @@
             if (scrollDirection === 'down') {
             } else if (scrollDirection === 'up') {
             }
-            setTimeout(() => { justScroll = false }, 200)
-          }
+          }, 200)
         })
         var scrollAction = {x: 'undefined', y: 'undefined'}
         var scrollDirection

@@ -90,9 +90,9 @@ h3 {
 }
 </style>
 
-<template>
-  <div class="article-content">
-    <p v-html="data.content" v-lazyLoad></p>
+<template >
+  <div class="article-content" v-lazyLoad>
+    <p v-html="data.content"></p>
   </div>
 </template>
 
@@ -113,13 +113,44 @@ h3 {
     },
     directives: {
       lazyLoad: {
-        inserted (el) {
+        update (el) {
+          const throttle = function (cb, delay, atMost) {
+            var timeout = null
+            var startTime = new Date()
+            return function () {
+              var currTime = new Date()
+              clearTimeout(timeout)
+              if (currTime - startTime >= atMost) {
+                cb()
+                startTime = currTime
+              } else {
+                timeout = setTimeout(cb, delay)
+              }
+            }
+          }
+          const lazyLoad = function () {
+            const imgs = el.querySelectorAll('img[data-original]')
+            console.log('懒加载的元素:')
+            console.dir(imgs)
+            const len = imgs.length
+            let n = 0
+            return function () {
+              let seeHeight = document.documentElement.clientHeight
+              let scrollTop = document.body.scrollTop || document.documentElement.scrollTop
+              for (let i = n; i < len; i++) {
+                if (imgs[i].offsetTop <= seeHeight + scrollTop + 500) {
+                  // console.log(`item: ${imgs[i].offsetTop} seeHeight:${seeHeight} scrollTop:${scrollTop} 已滚动高度: ${seeHeight + scrollTop + 500}`)
+                  // console.log('start')
+                  imgs[i].src = imgs[i].dataset.original
+                  n++
+                }
+              }
+            }
+          }
           setTimeout(() => {
-            const imgs = el.querySelectorAll('img[data-original]');
-            [].forEach.call(imgs, (item) => {
-              item.setAttribute('src', item.dataset.original)
-            })
-          }, 500)
+            const loadImg = lazyLoad()
+            window.addEventListener('scroll', throttle(loadImg, 300, 600), false)
+          }, 0)
         }
       }
     }
