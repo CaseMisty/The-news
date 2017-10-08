@@ -8,10 +8,8 @@ import 'element-ui/lib/theme-default/index.css'
 import axios from 'axios'
 Vue.config.productionTip = false
 Vue.use(elementUi)
-Vue.directive('title', {
-  bind (el, binding) {
-    document.title = binding.value
-  }
+Vue.directive('title', function (el, binding) {
+  document.title = binding.value
 })
 Vue.directive('moveTo', {
   inserted (el, binding) {
@@ -37,7 +35,7 @@ Vue.directive('moveTo', {
           let status
           if (clickTop < tarTop) status = 'down'
           else status = 'up'
-          const DURATION = 0.4
+          const DURATION = 0.3
           const SPEED = Math.abs(tarTop - clickTop) / (DURATION / 1 * 60)
           let lastTop
           const scrollStep = function () {

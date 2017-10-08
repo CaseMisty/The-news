@@ -108,10 +108,10 @@ h3 {
         }
       }
     },
-    beforeMount () {
-      document.title = this.data.title
-    },
     directives: {
+      /**
+       * @
+       */
       lazyLoad: {
         update (el) {
           const throttle = function (cb, delay, atMost) {

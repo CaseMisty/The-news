@@ -3,7 +3,7 @@
 </style>
 
 <template>
-  <div class="newsInfo">
+  <div class="newsInfo" v-title="bannerData.title">
     <ArticleBanner :data="bannerData"></ArticleBanner>
     <ArticleContent :data="contentData"></ArticleContent>
   </div>

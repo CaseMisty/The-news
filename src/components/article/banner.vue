@@ -1,10 +1,15 @@
-<style scoped>
+<style scoped lang="scss">
 .banner-background-inner {
   width: 100%;
-  height: 440px;
+  @media (min-width: 992px){
+    height: 400px;
+  }
+  @media(min-width: 768px )and (max-width: 992px) {
+    height: 300px;
+  }
   position: relative;
   color: #fff;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 .banner-background {
   height: 400px;
@@ -12,7 +17,7 @@
 .banner-filter {
   background: rgba(0,0,0,0.5);
   width: 100%;
-  height: 400px;
+  height: 100%;
   position: absolute;
   top: 0;
 }
@@ -45,17 +50,33 @@
   margin-bottom: 8px;
 }
 .head-image {
-  border-radius: 50%;
-  border: 5px solid #fff;
-  width: 80px;
-  height: 80px;
+  img {
+    border-radius: 50%;
+    border: 5px solid #fff;
+    width: 80px;
+    height: 80px;
+    display: block;
+  }
+  p {
+    color: #999;
+    text-align: center;
+    font-size: 14px;
+    width: 80px;
+  }
+  width: 700px;
+  height: 100px;
   box-sizing: border-box;
   position: absolute;
-  bottom: 0px;
-  left: 30%;
+  bottom: -60px;
+  left: 15px;
+  @media (min-width: 768px) {
+    left: 50%;
+    margin-left: -300px;
+  }
 }
 .article-banner {
-  margin-bottom: 40px;
+  // margin-bottom: 40px;
+  position: relative;
 }
 </style>
 
@@ -75,7 +96,10 @@
           {{data.lastTime}}
         </p>
       </div>
-      <img class="head-image" :src="data.authorImg" alt="">
+    </div>
+    <div class="head-image">
+        <img :src="data.authorImg" alt="">
+        <p>{{data.nickname}}</p>
     </div>
   </div>
 </template>
