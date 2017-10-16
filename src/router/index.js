@@ -7,6 +7,7 @@ import userInfo from '@/components/user/info'
 import userNews from '@/components/user/news'
 import login from '@/pages/login'
 import contribution from '../pages/contribution.vue'
+import more from '@/pages/more'
 
 Vue.use(Router)
 
@@ -16,6 +17,10 @@ export default new Router({
       path: '/',
       name: 'main',
       component: main
+    },
+    {
+      path: '/more/:type',
+      component: more
     },
     {
       path: '/newsInfo',
