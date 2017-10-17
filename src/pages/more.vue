@@ -34,12 +34,14 @@ export default {
   components: {
     showcase
   },
+  props: ['type'],
   data () {
     return {
       title: '',
       category: [],
       first: new EmptyPress(),
-      others: new EmptyPress()
+      others: new EmptyPress(),
+      type: ''
     }
   },
   created () {
@@ -64,19 +66,17 @@ export default {
         xmlhttp.send(data)
       })
     }
-    if (this.$route.params.type) {
-      if (this.$route.params.type === 'news') {
-        this.title = '新闻'
-        ajax('get', '/api/selectNewsPage.htm')
-        .then(res => {
-          this.first = res.shift()
-          this.others = res
-          this.category = []
-        })
-      }
-      if (this.$route.param.type === 'articles') {
-        this.title = '文章'
-      }
+    if (this.type === 'news') {
+      this.title = '新闻'
+      ajax('get', '/api/selectNewsPage.htm')
+      .then(res => {
+        this.first = res.shift()
+        this.others = res
+        this.category = []
+      })
+    }
+    if (this.type === 'articles') {
+      this.title = '文章'
     }
   }
 }

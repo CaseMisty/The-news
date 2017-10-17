@@ -20,7 +20,8 @@ export default new Router({
     },
     {
       path: '/more/:type',
-      component: more
+      component: more,
+      props: true
     },
     {
       path: '/newsInfo',

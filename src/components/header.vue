@@ -57,10 +57,10 @@
       </a>
       <div class="login-div right">
         <div class="left">
-          <a href="" v-moveTo="'#news'">新闻</a>
+          <a href="#/more/news" v-move="'#news'">新闻</a>
         </div>
         <div class="left">
-          <a v-moveTo="'#articles'">文章</a>
+          <a href="#/more/articles" v-move="'#articles'">文章</a>
         </div>
         <div class="left">
           <a href="">电台</a>
@@ -78,6 +78,79 @@
 <script>
  /* eslint-disable semi */
   export default {
-    name: 'header'
+    name: 'header',
+    data () {
+      return {
+        self: this
+      }
+    },
+    directives: {
+      move: {
+        inserted (el, binding, vnode) {
+          // console.dir(vnode)
+          var moveTo = function (sel) {
+            const tar = document.querySelector(sel)
+            if (tar) {
+              let doc = document
+              const docTop = function (...arg) {
+                if (arg.length === 0) {
+                  return doc.body.scrollTop + doc.documentElement.scrollTop
+                } else if (arg.length === 1) {
+                  doc.body.scrollTop = arg[0]
+                  doc.documentElement.scrollTop = arg[0]
+                  return docTop()
+                }
+              }
+              return function (e) {
+                if (window.location.href === 'http://localhost:8080/#/') {
+                  e.preventDefault()
+                } else {
+                  console.dir(vnode.context)
+                  vnode.context.$router.push(e.target.getAttribute('href'))
+                  return
+                }
+                const tarTop = tar.offsetTop
+                const clickTop = docTop()
+                let status
+                if (clickTop < tarTop) status = 'down'
+                else status = 'up'
+                const DURATION = 0.3
+                const SPEED = Math.abs(tarTop - clickTop) / (DURATION / 1 * 60)
+                let lastTop
+                const scrollStep = function () {
+                  let scrollTop = docTop()
+                  lastTop = scrollTop
+                  if (status === 'down') {
+                    scrollTop += SPEED
+                    if (scrollTop > tarTop) {
+                      scrollTop = tarTop
+                      status = 'stop'
+                    }
+                  } else if (status === 'up') {
+                    scrollTop -= SPEED
+                    if (scrollTop < tarTop) {
+                      scrollTop = tarTop
+                      status = 'stop'
+                    }
+                  }
+                  const thisTop = docTop(scrollTop)
+                  if (thisTop === lastTop) {
+                    status = 'stop'
+                  }
+                  if (status === 'stop') {
+                    return
+                  }
+                  requestAnimationFrame(scrollStep)
+                }
+                scrollStep()
+              }
+            } else {
+              return undefined
+            }
+          }
+          el.addEventListener('click', moveTo(binding.value))
+        }
+      }
+    }
   }
 </script>
