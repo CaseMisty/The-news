@@ -19,7 +19,7 @@ export default new Router({
       component: main
     },
     {
-      path: '/more/:type',
+      path: '/more/:utype',
       component: more,
       props: true
     },

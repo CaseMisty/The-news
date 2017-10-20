@@ -40,9 +40,6 @@ Vue.directive('moveTo', {
           }
         }
         return function (e) {
-          if (window.location.href === 'http://localhost:8080/#/') {
-            // e.preventDefault()
-          }
           const tarTop = tar.offsetTop
           const clickTop = docTop()
           let status

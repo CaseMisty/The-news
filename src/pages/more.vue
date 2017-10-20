@@ -68,7 +68,7 @@ export default {
     showcase
   },
   props: {
-    type: {
+    utype: {
       default: ''
     },
     id: {default: null}
@@ -99,7 +99,8 @@ export default {
       category: [],
       first: new EmptyPress(),
       others: null,
-      activeId: undefined
+      activeId: undefined,
+      type: this.utype
     }
   },
   methods: {

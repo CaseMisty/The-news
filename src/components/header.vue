@@ -102,16 +102,25 @@
                 }
               }
               return function (e) {
-                if (window.location.href === 'http://localhost:8080/#/') {
+                const url = window.location.href
+                alert(url)
+                const urlHasArticles = url.includes('articles')
+                const urlHasMore = url.includes('more')
+                const isHome = !urlHasArticles && !urlHasMore
+                if (isHome) {
                   e.preventDefault()
-                } else if (window.location.href === 'http://localhost:8080/#/more/articles') {
-                  vnode.context.$root.eventHub.$emit('reloadArticles')
                 } else {
-                  let href = e.target.getAttribute('href')
-                  vnode.context.$router.push(href)
+                  const href = e.target.getAttribute('href')
                   const lastIndex = href.lastIndexOf('/')
-                  vnode.context.$store.commit('changeMoreType', href.substring(lastIndex + 1))
-                  return
+                  const clickType = href.substring(lastIndex + 1)
+                  if (urlHasArticles && clickType === 'articles') {
+                    vnode.context.$root.eventHub.$emit('reloadArticles')
+                    return
+                  } else {
+                    vnode.context.$router.push(href)
+                    vnode.context.$store.commit('changeMoreType', clickType)
+                    return
+                  }
                 }
                 const tarTop = tar.offsetTop
                 const clickTop = docTop()
