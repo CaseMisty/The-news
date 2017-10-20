@@ -115,8 +115,6 @@ export default {
         if (res.data.length) {
           this.first = res.data.shift()
           this.others = res.data
-          console.dir(this.first)
-          console.dir(this.others)
         } else {
           this.$message('暂无此类文章')
           this.first = new EmptyPress()
@@ -136,8 +134,6 @@ export default {
         if (res.data.length) {
           this.first = res.data.shift()
           this.others = res.data
-          console.dir(this.first)
-          console.dir(this.others)
         } else {
           this.$message('暂无此类文章')
           this.first = new EmptyPress()

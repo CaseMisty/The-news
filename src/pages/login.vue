@@ -141,10 +141,10 @@ button{
         <button v-on:click="loginTest" type="button" class="btn btn-markness btn-block">登录</button>
       </div>
       <div class="form-group text-center">
-        <a href="#" class="text-muted">
+        <a href="#" class="text-muted" @click.prevent>
           <small>使用社交平台账号登录</small></a>
         <br>
-        <a href="#" class="text-muted">
+        <a href="#" class="text-muted" @click.prevent>
           <small>注册账号</small>
         </a>
       </div>

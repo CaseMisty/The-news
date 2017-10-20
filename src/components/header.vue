@@ -103,7 +103,6 @@
               }
               return function (e) {
                 const url = window.location.href
-                alert(url)
                 const urlHasArticles = url.includes('articles')
                 const urlHasMore = url.includes('more')
                 const isHome = !urlHasArticles && !urlHasMore
