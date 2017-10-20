@@ -96,11 +96,14 @@
     max-height: 57px;
   }
 }
+.gray {
+  background: rgba(62,62,62,0.3);
+}
 </style>
 
 <template>
   <div class="showcase" :style="style">
-    <div class="info">
+    <div class="info" v-if="size!=='large'">
       <span class="time">{{data.lastTime}}</span>
       <span class="category">
         <!--:href="data.category.href"-->
@@ -151,17 +154,18 @@ export default {
       default () {
         return {
           lastTime: '',
-          /* category: {
-            name: '也爱看电影',
-            href: 'http://localhost:8080/#/newsInfo'
-          }, */
+          category: {
+            name: '',
+            href: ''
+          },
           title: '',
           brief: '',
           newsImage: '',
           authorImg: '',
           href: '',
           like: '',
-          comments: ''
+          comments: '',
+          empty: false
         }
       }
     }
@@ -176,6 +180,11 @@ export default {
       this.style.width = 1030 / 3 + 'px'
       this.style.height = '325px'
       this.spanTop = '20px'
+    }
+    if (this.size === 'large') {
+      this.style.width = 1030 / 3 * 2 + 'px'
+      this.style.height = '480px'
+      this.spanTop = '55px'
     }
   }
 }

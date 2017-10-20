@@ -94,7 +94,6 @@
     },
     created () {
       this.$root.eventHub.$on('tooglefooter', (state) => { this.footerActive = state })
-      this.$root.eventHub.$on('tooglefooter', (state) => { this.footerActive = state })
       this.scrollEvent()
     },
     methods: {

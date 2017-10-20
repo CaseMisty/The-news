@@ -7,6 +7,18 @@ import router from './router'
 import elementUi from 'element-ui'
 import 'element-ui/lib/theme-default/index.css'
 import axios from 'axios'
+import Vuex from 'vuex'
+Vue.use(Vuex)
+let store = new Vuex.Store({
+  state: {
+    moreType: ''
+  },
+  mutations: {
+    changeMoreType (state, val) {
+      state.moreType = val
+    }
+  }
+})
 Vue.config.productionTip = false
 Vue.use(elementUi)
 Vue.directive('title', function (el, binding) {
@@ -29,7 +41,7 @@ Vue.directive('moveTo', {
         }
         return function (e) {
           if (window.location.href === 'http://localhost:8080/#/') {
-            e.preventDefault()
+            // e.preventDefault()
           }
           const tarTop = tar.offsetTop
           const clickTop = docTop()
@@ -78,6 +90,7 @@ Vue.prototype.$http = axios
 new Vue({
   el: '#app',
   router,
+  store,
   data: {
     eventHub: new Vue()
   },

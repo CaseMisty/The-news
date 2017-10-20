@@ -43,7 +43,7 @@
       </template>
     </div>
     <p class="tc" v-if="more">
-      <a class="btn btn-hollow" :href="'#/more/'+more">更多</a>
+      <a class="btn btn-hollow" v-moveTo="'body'" :href="'#/more/'+more">更多</a>
     </p>
   </div>
 </template>

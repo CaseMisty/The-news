@@ -9,7 +9,7 @@
       <el-table-column  prop="lasttime" label="最后修改时间" width=""></el-table-column>
       <el-table-column prop="brief" label="简介" width=""></el-table-column>
       <el-table-column label="" width="150">
-        <template scope="scope">
+        <template slot-scope="scope">
           <el-button size="small" @click="handleEdit(scope.$index, scope.row.id)">编辑</el-button>
           <el-button size="small" type="danger" @click="handleDelete(scope.$index, scope.row.id)">删除</el-button>
         </template>

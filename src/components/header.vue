@@ -63,7 +63,7 @@
           <a href="#/more/articles" v-move="'#articles'">文章</a>
         </div>
         <div class="left">
-          <a href="">电台</a>
+          <a href="" @click.prevent="$store.commit('add',5)">电台</a>
         </div>
         <div class="left">
           <a href="">视频</a>
@@ -104,9 +104,13 @@
               return function (e) {
                 if (window.location.href === 'http://localhost:8080/#/') {
                   e.preventDefault()
+                } else if (window.location.href === 'http://localhost:8080/#/more/articles') {
+                  vnode.context.$root.eventHub.$emit('reloadArticles')
                 } else {
-                  console.dir(vnode.context)
-                  vnode.context.$router.push(e.target.getAttribute('href'))
+                  let href = e.target.getAttribute('href')
+                  vnode.context.$router.push(href)
+                  const lastIndex = href.lastIndexOf('/')
+                  vnode.context.$store.commit('changeMoreType', href.substring(lastIndex + 1))
                   return
                 }
                 const tarTop = tar.offsetTop
