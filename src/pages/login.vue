@@ -188,7 +188,7 @@ export default {
       // 这里ajax登录
       let self = this
       axios({
-        url: 'http://localhost:9090/Psy/login.htm',
+        url: '/api/login.htm',
         method: 'post',
         params: {
           userAccount: self.userName,

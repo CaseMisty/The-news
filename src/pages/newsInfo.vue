@@ -38,7 +38,7 @@ export default {
     let self = this
     axios({
       method: 'post',
-      url: 'http://localhost:9090/Psy/selectOnePress.htm',
+      url: '/api/selectOnePress.htm',
       params: {
         id: this.$route.query.press_id
       }
