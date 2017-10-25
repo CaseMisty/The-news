@@ -3,7 +3,7 @@
 </style>
 
 <template>
-  <div class="main">
+  <div class="main" v-title="'机核'">
     <slide></slide>
     <div class="container clearfix" style="padding-top: 20px;">
       <showcase-article :data="firstArticle" size="middle"></showcase-article>

@@ -106,6 +106,7 @@ export default {
   methods: {
     getArticles () {
       this.title = '文章'
+      document.title = '文章'
       this.$http.get('/api/getCategories.htm')
       .then(res => {
         this.category = res.data
@@ -170,6 +171,7 @@ export default {
       this.category = []
       if (this.type === 'news') {
         this.title = '新闻'
+        document.title = '新闻'
         ajax('get', '/api/selectNewsPage.htm')
         .then(res => {
           this.first = res.shift()

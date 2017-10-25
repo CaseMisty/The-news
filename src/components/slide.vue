@@ -14,9 +14,13 @@
   }
   .slide {
     position: relative;
-    @include slideSize($s-width, $s-height);
+    width: 100%;
+    overflow: hidden;
+    height: 420px;
     img {
-      @include slideSize($s-width, $s-height);
+      height: 420px;
+      width: 100%;
+      min-width: 1500px;
     }
     .img-box {
       a{
@@ -167,15 +171,15 @@ export default {
       default () {
         return [
           {
-            src: 'static/c14df5ce-d459-42ae-875e-ce97271dcba5.jpg',
+            src: 'https://alioss.g-cores.com/uploads/focus_image/3cb82144-5f99-4eca-8983-768699790343.jpg',
             href: ''
           },
           {
-            src: 'static/53785fca-015a-4c25-9c78-9b8e18d058d0.jpg',
+            src: 'https://alioss.g-cores.com/uploads/focus_image/8996c02a-5999-43a6-8e6e-2481467be901.jpg',
             href: ''
           },
           {
-            src: 'static/cb2ce18e-7643-4eda-9b9b-6845cc9b2882.jpg',
+            src: 'https://alioss.g-cores.com/uploads/focus_image/740d73f0-1d5e-49fa-9baf-17f8a5194a1e.jpg',
             href: ''
           }
         ]

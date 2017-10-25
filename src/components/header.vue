@@ -105,7 +105,8 @@
                 const url = window.location.href
                 const urlHasArticles = url.includes('articles')
                 const urlHasMore = url.includes('more')
-                const isHome = !urlHasArticles && !urlHasMore
+                const urlHasNews = url.includes('newsInfo')
+                const isHome = !urlHasArticles && !urlHasMore && !urlHasNews
                 if (isHome) {
                   e.preventDefault()
                 } else {
