@@ -129,7 +129,7 @@
     </div>
     <div class="text">
       <h4>
-        <a :title="data.title">{{data.title}}</a>
+        <a :title="data.title" :src="data.newsImage">{{data.title}}</a>
       </h4>
       <div class="desc">{{data.brief}}</div>
     </div>
