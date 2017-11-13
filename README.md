@@ -1,7 +1,7 @@
 # the-news
 
-> SpringMVC + Vue.js 仿机核网 (http://www.g-cores.com/)
-
+> SpringMVC + Vue.js + MySQL 仿机核网 (http://www.g-cores.com/)
+持续修改中
 ## Build Setup
 
 ``` bash
